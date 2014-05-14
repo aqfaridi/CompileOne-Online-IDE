@@ -1,0 +1,13 @@
+main.cpp: In function 'int main()':
+main.cpp:11:14: error: invalid operands of types '<unresolved overloaded function type>' and 'int' to binary 'operator-'
+main.cpp:11:33: error: invalid use of member (did you forget the '&' ?)
+main.cpp:11:33: error: base operand of '->' is not a pointer
+main.cpp:11:54: error: invalid operands of types '<unresolved overloaded function type>' and 'int' to binary 'operator-'
+main.cpp:11:74: error: invalid use of member (did you forget the '&' ?)
+main.cpp:11:74: error: base operand of '->' is not a pointer
+main.cpp:13:14: error: invalid operands of types '<unresolved overloaded function type>' and 'int' to binary 'operator-'
+main.cpp:13:33: error: invalid use of member (did you forget the '&' ?)
+main.cpp:13:33: error: base operand of '->' is not a pointer
+main.cpp:13:55: error: invalid operands of types '<unresolved overloaded function type>' and 'int' to binary 'operator-'
+main.cpp:13:76: error: invalid use of member (did you forget the '&' ?)
+main.cpp:13:76: error: base operand of '->' is not a pointer

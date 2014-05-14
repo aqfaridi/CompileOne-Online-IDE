@@ -1,0 +1,4 @@
+  File "main.py", line 3
+    arr = raw_input().split(,)
+                            ^
+SyntaxError: invalid syntax

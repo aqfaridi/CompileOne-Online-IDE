@@ -1,0 +1,6 @@
+main.cpp: In function 'int main()':
+main.cpp:118:9: error: expected primary-expression before '}' token
+main.cpp:118:9: error: expected ';' before '}' token
+main.cpp:119:21: warning: name lookup of 'i' changed [enabled by default]
+main.cpp:114:13: warning:   matches this 'i' under ISO standard rules [enabled by default]
+main.cpp:116:17: warning:   matches this 'i' under old rules [enabled by default]

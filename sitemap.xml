@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://www.compileone.com/</loc>
+</url>
+<url>
+  <loc>http://www.compileone.com/index.php</loc>
+</url>
+<url>
+  <loc>http://www.compileone.com/sample.php</loc>
+</url>
+<url>
+  <loc>http://www.compileone.com/register.php</loc>
+</url>
+<url>
+  <loc>http://www.compileone.com/sample/compileone_4P5dPw.awk</loc>
+  <lastmod>2014-05-27T18:51:31+00:00</lastmod>
+</url>
+<url>
+  <loc>http://www.compileone.com/sample/compileone_eqs3E2.awk</loc>
+  <lastmod>2014-05-27T18:51:28+00:00</lastmod>
+</url>
+<url>
+  <loc>http://www.compileone.com/sample/compileone_VC8ztYqJ.bf</loc>
+  <lastmod>2014-05-27T18:51:41+00:00</lastmod>
+</url>
+<url>
+  <loc>http://www.compileone.com/sample/compileone_y3GIhc.cs</loc>
+  <lastmod>2014-05-27T18:51:57+00:00</lastmod>
+</url>
+<url>
+  <loc>http://www.compileone.com/sample/compileone_80Ww0.p6</loc>
+  <lastmod>2014-05-27T18:53:05+00:00</lastmod>
+</url>
+<url>
+  <loc>http://www.compileone.com/sample/compileone_sQUFXF.pike</loc>
+  <lastmod>2014-05-27T18:53:28+00:00</lastmod>
+</url>
+<url>
+  <loc>http://www.compileone.com/sample/compileone_UvDciSqb.ruby</loc>
+  <lastmod>2014-05-27T18:53:44+00:00</lastmod>
+</url>
+<url>
+  <loc>http://www.compileone.com/sample/compileone_dxYpbyj0.txt</loc>
+  <lastmod>2014-05-27T18:53:48+00:00</lastmod>
+</url>
+<url>
+  <loc>http://www.compileone.com/login.php</loc>
+</url>
+</urlset>

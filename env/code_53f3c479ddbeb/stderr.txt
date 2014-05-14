@@ -1,0 +1,6 @@
+code_53f3c479ddbeb.java:5: cannot find symbol
+symbol  : class string
+location: class Demo
+    public static void main(string[] args){
+                            ^
+1 error

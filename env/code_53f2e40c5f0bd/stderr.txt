@@ -1,0 +1,11 @@
+main.cpp:41:1: error: 'll' does not name a type
+main.cpp: In function 'int main()':
+main.cpp:74:5: error: 'll' was not declared in this scope
+main.cpp:74:8: error: expected ';' before 't'
+main.cpp:75:10: error: 't' was not declared in this scope
+main.cpp:78:14: error: 'n' was not declared in this scope
+main.cpp:78:17: error: 'c' was not declared in this scope
+main.cpp:79:12: error: expected ';' before 'a'
+main.cpp:82:18: error: 'a' was not declared in this scope
+main.cpp:84:14: error: 'a' was not declared in this scope
+main.cpp:85:27: error: 'binary' was not declared in this scope

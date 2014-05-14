@@ -1,0 +1,6 @@
+main.c: In function 'main':
+main.c:4:1: error: stray '\302' in program
+main.c:4:1: error: stray '\255' in program
+main.c:4:1: error: stray '\315' in program
+main.c:4:1: error: stray '\276' in program
+main.c:6:2: error: expected ';' before 'return'

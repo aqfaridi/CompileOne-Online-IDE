@@ -1,0 +1,100 @@
+code_53e872069d8f7.java:5: ';' expected
+import java.lang.Exception
+                          ^
+code_53e872069d8f7.java:8: ';' expected
+	public static void main (String[] args) throws java.lang.Exception
+	                                                                  ^
+code_53e872069d8f7.java:11: illegal start of type
+      try
+      ^
+code_53e872069d8f7.java:11: ';' expected
+      try
+         ^
+code_53e872069d8f7.java:13: <identifier> expected
+         System.out.println("Connecting to " + serverName
+                           ^
+code_53e872069d8f7.java:13: illegal start of type
+         System.out.println("Connecting to " + serverName
+                            ^
+code_53e872069d8f7.java:13: ')' expected
+         System.out.println("Connecting to " + serverName
+                                            ^
+code_53e872069d8f7.java:13: ';' expected
+         System.out.println("Connecting to " + serverName
+                                              ^
+code_53e872069d8f7.java:14: illegal start of type
+                             + " on port " + port);
+                             ^
+code_53e872069d8f7.java:14: <identifier> expected
+                             + " on port " + port);
+                              ^
+code_53e872069d8f7.java:14: ';' expected
+                             + " on port " + port);
+                                          ^
+code_53e872069d8f7.java:14: <identifier> expected
+                             + " on port " + port);
+                                                 ^
+code_53e872069d8f7.java:16: <identifier> expected
+         System.out.println("Just connected to "
+                           ^
+code_53e872069d8f7.java:16: illegal start of type
+         System.out.println("Just connected to "
+                            ^
+code_53e872069d8f7.java:16: ')' expected
+         System.out.println("Just connected to "
+                                                ^
+code_53e872069d8f7.java:17: ';' expected
+                      + client.getRemoteSocketAddress());
+                       ^
+code_53e872069d8f7.java:17: illegal start of type
+                      + client.getRemoteSocketAddress());
+                              ^
+code_53e872069d8f7.java:17: ';' expected
+                      + client.getRemoteSocketAddress());
+                                                       ^
+code_53e872069d8f7.java:22: <identifier> expected
+         out.writeUTF("Hello from "
+                     ^
+code_53e872069d8f7.java:22: illegal start of type
+         out.writeUTF("Hello from "
+                      ^
+code_53e872069d8f7.java:22: ')' expected
+         out.writeUTF("Hello from "
+                                   ^
+code_53e872069d8f7.java:23: ';' expected
+                      + client.getLocalSocketAddress());
+                       ^
+code_53e872069d8f7.java:23: illegal start of type
+                      + client.getLocalSocketAddress());
+                              ^
+code_53e872069d8f7.java:23: ';' expected
+                      + client.getLocalSocketAddress());
+                                                      ^
+code_53e872069d8f7.java:27: <identifier> expected
+         System.out.println("Server says " + in.readUTF());
+                           ^
+code_53e872069d8f7.java:27: illegal start of type
+         System.out.println("Server says " + in.readUTF());
+                            ^
+code_53e872069d8f7.java:27: ')' expected
+         System.out.println("Server says " + in.readUTF());
+                                          ^
+code_53e872069d8f7.java:27: ';' expected
+         System.out.println("Server says " + in.readUTF());
+                                            ^
+code_53e872069d8f7.java:27: illegal start of type
+         System.out.println("Server says " + in.readUTF());
+                                               ^
+code_53e872069d8f7.java:27: ';' expected
+         System.out.println("Server says " + in.readUTF());
+                                                         ^
+code_53e872069d8f7.java:28: <identifier> expected
+         client.close();
+                     ^
+code_53e872069d8f7.java:29: class, interface, or enum expected
+      }catch(IOException e)
+       ^
+code_53e872069d8f7.java:32: class, interface, or enum expected
+      }
+      ^
+33 errors

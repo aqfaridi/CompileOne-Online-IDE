@@ -1,0 +1,6 @@
+main.c:6:6: warning: conflicting types for 'display' [enabled by default]
+main.c:4:1: note: previous implicit declaration of 'display' was here
+main.c: In function 'display':
+main.c:8:1: warning: incompatible implicit declaration of built-in function 'printf' [enabled by default]
+main.c:8:13: error: 'string' undeclared (first use in this function)
+main.c:8:13: note: each undeclared identifier is reported only once for each function it appears in

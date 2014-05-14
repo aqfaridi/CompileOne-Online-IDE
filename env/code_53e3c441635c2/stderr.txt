@@ -1,0 +1,1 @@
+error CS5001: Program `code_53e3c441635c2.exe' does not contain a static `Main' method suitable for an entry point

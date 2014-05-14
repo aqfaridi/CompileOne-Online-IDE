@@ -1,0 +1,6 @@
+code_53f08512d5de6.java:9: cannot find symbol
+symbol  : method printf(java.lang.String)
+location: class Main
+	printf("very happy to get a online compilerrr!!!!!!");	// your code goes here
+	^
+1 error

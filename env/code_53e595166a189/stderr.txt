@@ -1,0 +1,4 @@
+  File "main.py", line 4
+    os.exec("touch index.html")
+          ^
+SyntaxError: invalid syntax

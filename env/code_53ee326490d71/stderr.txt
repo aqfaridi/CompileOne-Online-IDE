@@ -1,0 +1,13 @@
+main.cpp: In function 'int main()':
+main.cpp:11:13: error: 'x3' was not declared in this scope
+main.cpp:12:13: error: 'y3' was not declared in this scope
+main.cpp:13:13: error: 'x4' was not declared in this scope
+main.cpp:14:13: error: 'y4' was not declared in this scope
+main.cpp:19:13: error: 'x3' was not declared in this scope
+main.cpp:20:13: error: 'y3' was not declared in this scope
+main.cpp:21:13: error: 'x4' was not declared in this scope
+main.cpp:22:13: error: 'y4' was not declared in this scope
+main.cpp:30:17: error: 'x3' was not declared in this scope
+main.cpp:31:17: error: 'y3' was not declared in this scope
+main.cpp:32:17: error: 'x4' was not declared in this scope
+main.cpp:33:17: error: 'y4' was not declared in this scope

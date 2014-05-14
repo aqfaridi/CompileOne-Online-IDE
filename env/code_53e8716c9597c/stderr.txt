@@ -1,0 +1,11 @@
+code_53e8716c9597c.java:9: cannot find symbol
+symbol  : class Socket
+location: class Main
+		Socket s = new Socket();
+		^
+code_53e8716c9597c.java:9: cannot find symbol
+symbol  : class Socket
+location: class Main
+		Socket s = new Socket();
+		               ^
+2 errors

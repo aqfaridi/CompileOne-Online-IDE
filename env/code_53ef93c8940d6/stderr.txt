@@ -1,0 +1,2 @@
+main.c: In function 'main':
+main.c:6:5: error: expected ';' before 'scanf'

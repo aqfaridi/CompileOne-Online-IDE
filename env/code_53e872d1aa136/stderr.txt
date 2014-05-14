@@ -1,0 +1,4 @@
+code_53e872d1aa136.java:9: ';' expected
+	System.out.println(args[0])
+	                           ^
+1 error

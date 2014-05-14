@@ -1,0 +1,6 @@
+env/code_53e4ebd90ac4c/code_53e4ebd90ac4c.pike:2:Undefined identifier cout.
+env/code_53e4ebd90ac4c/code_53e4ebd90ac4c.pike:2:Too few arguments to `<< (got 0).
+env/code_53e4ebd90ac4c/code_53e4ebd90ac4c.pike:2:Expected: object | int | mixed.
+env/code_53e4ebd90ac4c/code_53e4ebd90ac4c.pike:2:Function type:
+env/code_53e4ebd90ac4c/code_53e4ebd90ac4c.pike:2:Got     : scope(0,function(int, int : int) | !function(!object ... : mixed) & (function(object, mixed : mixed) | function(mixed, object : mixed))).
+Pike: Failed to compile script.

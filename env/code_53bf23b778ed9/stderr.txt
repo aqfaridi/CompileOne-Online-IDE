@@ -1,0 +1,2 @@
+main.c: In function 'main':
+main.c:5:2: error: expected ';' before 'return'

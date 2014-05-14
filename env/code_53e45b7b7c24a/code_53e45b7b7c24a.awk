@@ -1,0 +1,1 @@
+{i=0;while(i++<NF)print $i^2}

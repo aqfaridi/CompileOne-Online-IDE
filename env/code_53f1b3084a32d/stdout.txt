@@ -1,0 +1,7 @@
+2  Kaluzhin
+6  Rogulenko
+0  Melnikov
+1  Fedorov
+If you want to call a taxi, you should call: Kaluzhin.
+If you want to order a pizza, you should call: Kaluzhin.
+If you want to go to a cafe with a wonderful girl, you should call: Kaluzhin.

@@ -1,0 +1,2 @@
+main.c:10:6: error: conflicting types for 'xyz'
+main.c:3:6: note: previous declaration of 'xyz' was here

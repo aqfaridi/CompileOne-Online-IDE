@@ -1,0 +1,1 @@
+main.cs(14,0): error CS1525: Unexpected symbol `}'

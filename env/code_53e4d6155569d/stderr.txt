@@ -1,0 +1,4 @@
+  File "main.py", line 11
+    make_sure_path_exists(/home/navs)
+                          ^
+SyntaxError: invalid syntax

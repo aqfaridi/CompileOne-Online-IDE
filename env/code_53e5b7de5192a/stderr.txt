@@ -1,0 +1,4 @@
+main.cpp: In function 'int main()':
+main.cpp:26:5: error: 'cout' was not declared in this scope
+main.cpp:9:19: warning: ignoring return value of 'int scanf(const char*, ...)', declared with attribute warn_unused_result [-Wunused-result]
+main.cpp:12:24: warning: ignoring return value of 'int scanf(const char*, ...)', declared with attribute warn_unused_result [-Wunused-result]

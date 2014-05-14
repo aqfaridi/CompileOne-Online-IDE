@@ -1,0 +1,1 @@
+awk: main.awk:1: (FILENAME=- FNR=4) fatal: `break' outside a loop is not allowed

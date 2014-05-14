@@ -1,0 +1,4 @@
+main.cpp: In function 'int main()':
+main.cpp:22:6: error: incompatible types in assignment of 'const char [1]' to 'char [20]'
+main.cpp:23:6: error: incompatible types in assignment of 'const char [1]' to 'char [20]'
+main.cpp:40:15: error: 'strcmp' was not declared in this scope

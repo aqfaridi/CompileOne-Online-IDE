@@ -1,0 +1,6 @@
+main.c: In function 'main':
+main.c:11:10: warning: assignment makes integer from pointer without a cast [enabled by default]
+main.c:12:9: error: invalid type argument of unary '*' (have 'int')
+main.c:14:16: error: invalid type argument of unary '*' (have 'int')
+main.c:18:13: error: invalid type argument of unary '*' (have 'int')
+main.c:7:7: warning: ignoring return value of 'scanf', declared with attribute warn_unused_result [-Wunused-result]

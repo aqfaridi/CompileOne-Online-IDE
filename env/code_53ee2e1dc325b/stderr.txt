@@ -1,0 +1,5 @@
+main.cpp: In function 'int main()':
+main.cpp:18:7: error: expected primary-expression before '!=' token
+main.cpp:19:2: error: expected ';' before '{' token
+main.cpp:47:1: error: expected '}' at end of input
+main.cpp:47:1: error: expected '}' at end of input

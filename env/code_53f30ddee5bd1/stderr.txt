@@ -1,0 +1,13 @@
+main.cpp:4:1: error: 'll' does not name a type
+main.cpp: In function 'int main()':
+main.cpp:26:2: error: 'll' was not declared in this scope
+main.cpp:26:5: error: expected ';' before 'n'
+main.cpp:27:11: error: 'n' was not declared in this scope
+main.cpp:27:14: error: 'tot' was not declared in this scope
+main.cpp:28:9: error: expected ';' before 'a'
+main.cpp:29:13: error: 'i' was not declared in this scope
+main.cpp:30:18: error: 'a' was not declared in this scope
+main.cpp:31:14: error: 'a' was not declared in this scope
+main.cpp:31:19: error: 'sort' was not declared in this scope
+main.cpp:32:9: error: 's' was not declared in this scope
+main.cpp:37:26: error: 'bin' was not declared in this scope

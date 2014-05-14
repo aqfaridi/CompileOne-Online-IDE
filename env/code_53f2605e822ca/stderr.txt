@@ -1,0 +1,3 @@
+main.c: In function 'main':
+main.c:4:5: error: 'for' loop initial declarations are only allowed in C99 mode
+main.c:4:5: note: use option -std=c99 or -std=gnu99 to compile your code

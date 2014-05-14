@@ -1,0 +1,4 @@
+  File "main.py", line 12
+    return isSubset(arr,n-1,sum)||isSubset(arr,n-1,sum-arr[n-1])
+                                 ^
+SyntaxError: invalid syntax

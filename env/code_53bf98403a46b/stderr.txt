@@ -1,0 +1,3 @@
+
+main.hs:3:2:
+    parse error on input `let'

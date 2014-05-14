@@ -1,0 +1,3 @@
+/tmp/cc8u61xJ.o: In function `main':
+code_53bec6821c5ed.c:(.text.startup+0x25): undefined reference to `print'
+collect2: ld returned 1 exit status

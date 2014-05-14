@@ -1,0 +1,11 @@
+main.cpp: In function 'int main()':
+main.cpp:61:43: error: no match for 'operator&' in 'str.std::set<_Key, _Compare, _Alloc>::insert [with _Key = std::basic_string<char>, _Compare = std::less<std::basic_string<char> >, _Alloc = std::allocator<std::basic_string<char> >, typename std::_Rb_tree<_Key, _Key, std::_Identity<_Key>, _Compare, typename _Alloc::rebind<_Key>::other>::const_iterator = std::_Rb_tree_const_iterator<std::basic_string<char> >, std::set<_Key, _Compare, _Alloc>::value_type = std::basic_string<char>]((*(const value_type*)(& b[i]))) & str.std::set<_Key, _Compare, _Alloc>::insert [with _Key = std::basic_string<char>, _Compare = std::less<std::basic_string<char> >, _Alloc = std::allocator<std::basic_string<char> >, typename std::_Rb_tree<_Key, _Key, std::_Identity<_Key>, _Compare, typename _Alloc::rebind<_Key>::other>::const_iterator = std::_Rb_tree_const_iterator<std::basic_string<char> >, std::set<_Key, _Compare, _Alloc>::value_type = std::basic_string<char>]((*(const value_type*)(& b[(i + 1)])))'
+main.cpp:61:43: note: candidates are:
+/usr/include/c++/4.6/bits/ios_base.h:77:3: note: std::_Ios_Fmtflags std::operator&(std::_Ios_Fmtflags, std::_Ios_Fmtflags)
+/usr/include/c++/4.6/bits/ios_base.h:77:3: note:   no known conversion for argument 1 from 'std::pair<std::_Rb_tree_const_iterator<std::basic_string<char> >, bool>' to 'std::_Ios_Fmtflags'
+/usr/include/c++/4.6/bits/ios_base.h:117:3: note: std::_Ios_Openmode std::operator&(std::_Ios_Openmode, std::_Ios_Openmode)
+/usr/include/c++/4.6/bits/ios_base.h:117:3: note:   no known conversion for argument 1 from 'std::pair<std::_Rb_tree_const_iterator<std::basic_string<char> >, bool>' to 'std::_Ios_Openmode'
+/usr/include/c++/4.6/bits/ios_base.h:155:3: note: std::_Ios_Iostate std::operator&(std::_Ios_Iostate, std::_Ios_Iostate)
+/usr/include/c++/4.6/bits/ios_base.h:155:3: note:   no known conversion for argument 1 from 'std::pair<std::_Rb_tree_const_iterator<std::basic_string<char> >, bool>' to 'std::_Ios_Iostate'
+/usr/include/c++/4.6/bitset:1409:5: note: template<unsigned int _Nb> std::bitset<_Nb> std::operator&(const std::bitset<_Nb>&, const std::bitset<_Nb>&)
+main.cpp:54:19: warning: ignoring return value of 'int scanf(const char*, ...)', declared with attribute warn_unused_result [-Wunused-result]

@@ -1,0 +1,2 @@
+main.sh: line 5: [: 2: integer expression expected
+main.sh: line 5: [: 1: integer expression expected

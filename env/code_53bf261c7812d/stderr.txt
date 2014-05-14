@@ -1,0 +1,9 @@
+main.cpp: In function 'int main()':
+main.cpp:5:16: error: no match for 'operator<' in 'std::operator<< [with _Traits = std::char_traits<char>]((* & std::cout), ((const char*)"Hello")) < std::endl'
+main.cpp:5:16: note: candidates are:
+/usr/include/c++/4.6/bits/stl_pair.h:207:5: note: template<class _T1, class _T2> bool std::operator<(const std::pair<_T1, _T2>&, const std::pair<_T1, _T2>&)
+/usr/include/c++/4.6/bits/stl_iterator.h:291:5: note: template<class _Iterator> bool std::operator<(const std::reverse_iterator<_Iterator>&, const std::reverse_iterator<_Iterator>&)
+/usr/include/c++/4.6/bits/stl_iterator.h:341:5: note: template<class _IteratorL, class _IteratorR> bool std::operator<(const std::reverse_iterator<_IteratorL>&, const std::reverse_iterator<_IteratorR>&)
+/usr/include/c++/4.6/bits/basic_string.h:2510:5: note: template<class _CharT, class _Traits, class _Alloc> bool std::operator<(const std::basic_string<_CharT, _Traits, _Alloc>&, const std::basic_string<_CharT, _Traits, _Alloc>&)
+/usr/include/c++/4.6/bits/basic_string.h:2522:5: note: template<class _CharT, class _Traits, class _Alloc> bool std::operator<(const std::basic_string<_CharT, _Traits, _Alloc>&, const _CharT*)
+/usr/include/c++/4.6/bits/basic_string.h:2534:5: note: template<class _CharT, class _Traits, class _Alloc> bool std::operator<(const _CharT*, const std::basic_string<_CharT, _Traits, _Alloc>&)

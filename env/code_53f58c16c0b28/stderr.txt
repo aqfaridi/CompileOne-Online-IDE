@@ -1,0 +1,2 @@
+main.c: In function 'main':
+main.c:4:8: error: expected ';' before 'printf'

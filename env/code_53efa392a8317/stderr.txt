@@ -1,0 +1,6 @@
+main.cpp: In function 'int main()':
+main.cpp:7:11: error: invalid conversion from 'const char*' to 'char' [-fpermissive]
+main.cpp:8:11: error: invalid conversion from 'const char*' to 'char' [-fpermissive]
+main.cpp:19:12: error: invalid array assignment
+main.cpp:24:25: error: request for member 'length' in 's[(i + -0x00000000000000001)]', which is of non-class type 'char [101]'
+main.cpp:40:16: error: request for member 'length' in 's[(i + -0x00000000000000001)]', which is of non-class type 'char [101]'

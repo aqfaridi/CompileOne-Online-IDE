@@ -1,0 +1,94 @@
+main.c:1:9: error: expected '=', ',', ';', 'asm' or '__attribute__' before '<' token
+In file included from main.c:2:0:
+/usr/include/string.h:45:40: error: unknown type name 'size_t'
+/usr/include/string.h:49:58: error: unknown type name 'size_t'
+/usr/include/string.h:58:18: error: unknown type name 'size_t'
+/usr/include/string.h:65:42: error: unknown type name 'size_t'
+/usr/include/string.h:68:60: error: unknown type name 'size_t'
+/usr/include/string.h:95:50: error: unknown type name 'size_t'
+/usr/include/string.h:132:41: error: unknown type name 'size_t'
+/usr/include/string.h:140:9: error: unknown type name 'size_t'
+/usr/include/string.h:146:61: error: unknown type name 'size_t'
+/usr/include/string.h:153:1: error: unknown type name 'size_t'
+/usr/include/string.h:154:42: error: unknown type name 'size_t'
+In file included from main.c:2:0:
+/usr/include/string.h:168:1: error: unknown type name 'size_t'
+/usr/include/string.h:168:61: error: unknown type name 'size_t'
+/usr/include/string.h:183:47: error: unknown type name 'size_t'
+/usr/include/string.h:284:1: error: unknown type name 'size_t'
+/usr/include/string.h:288:1: error: unknown type name 'size_t'
+/usr/include/string.h:399:1: error: unknown type name 'size_t'
+/usr/include/string.h:406:1: error: unknown type name 'size_t'
+/usr/include/string.h:406:48: error: unknown type name 'size_t'
+/usr/include/string.h:427:12: error: unknown type name 'size_t'
+/usr/include/string.h:451:33: error: unknown type name 'size_t'
+/usr/include/string.h:455:55: error: unknown type name 'size_t'
+/usr/include/string.h:459:31: error: unknown type name 'size_t'
+/usr/include/string.h:462:58: error: unknown type name 'size_t'
+/usr/include/string.h:540:65: error: unknown type name 'size_t'
+/usr/include/string.h:577:36: error: unknown type name 'size_t'
+/usr/include/string.h:580:41: error: unknown type name 'size_t'
+In file included from /usr/include/string.h:637:0,
+                 from main.c:2:
+/usr/include/i386-linux-gnu/bits/string2.h:969:1: error: unknown type name 'size_t'
+/usr/include/i386-linux-gnu/bits/string2.h:971:1: error: unknown type name 'size_t'
+/usr/include/i386-linux-gnu/bits/string2.h: In function '__strcspn_c1':
+/usr/include/i386-linux-gnu/bits/string2.h:973:3: error: unknown type name 'size_t'
+/usr/include/i386-linux-gnu/bits/string2.h: At top level:
+/usr/include/i386-linux-gnu/bits/string2.h:979:1: error: unknown type name 'size_t'
+/usr/include/i386-linux-gnu/bits/string2.h:982:1: error: unknown type name 'size_t'
+/usr/include/i386-linux-gnu/bits/string2.h: In function '__strcspn_c2':
+/usr/include/i386-linux-gnu/bits/string2.h:984:3: error: unknown type name 'size_t'
+/usr/include/i386-linux-gnu/bits/string2.h: At top level:
+/usr/include/i386-linux-gnu/bits/string2.h:991:1: error: unknown type name 'size_t'
+/usr/include/i386-linux-gnu/bits/string2.h:994:1: error: unknown type name 'size_t'
+/usr/include/i386-linux-gnu/bits/string2.h: In function '__strcspn_c3':
+/usr/include/i386-linux-gnu/bits/string2.h:997:3: error: unknown type name 'size_t'
+/usr/include/i386-linux-gnu/bits/string2.h: At top level:
+/usr/include/i386-linux-gnu/bits/string2.h:1045:1: error: unknown type name 'size_t'
+/usr/include/i386-linux-gnu/bits/string2.h:1047:1: error: unknown type name 'size_t'
+/usr/include/i386-linux-gnu/bits/string2.h: In function '__strspn_c1':
+/usr/include/i386-linux-gnu/bits/string2.h:1049:3: error: unknown type name 'size_t'
+/usr/include/i386-linux-gnu/bits/string2.h: At top level:
+/usr/include/i386-linux-gnu/bits/string2.h:1056:1: error: unknown type name 'size_t'
+/usr/include/i386-linux-gnu/bits/string2.h:1059:1: error: unknown type name 'size_t'
+/usr/include/i386-linux-gnu/bits/string2.h: In function '__strspn_c2':
+/usr/include/i386-linux-gnu/bits/string2.h:1061:3: error: unknown type name 'size_t'
+/usr/include/i386-linux-gnu/bits/string2.h: At top level:
+/usr/include/i386-linux-gnu/bits/string2.h:1068:1: error: unknown type name 'size_t'
+/usr/include/i386-linux-gnu/bits/string2.h:1071:1: error: unknown type name 'size_t'
+/usr/include/i386-linux-gnu/bits/string2.h: In function '__strspn_c3':
+/usr/include/i386-linux-gnu/bits/string2.h:1073:3: error: unknown type name 'size_t'
+/usr/include/i386-linux-gnu/bits/string2.h: In function '__strpbrk_c2':
+/usr/include/i386-linux-gnu/bits/string2.h:1129:42: error: 'size_t' undeclared (first use in this function)
+/usr/include/i386-linux-gnu/bits/string2.h:1129:42: note: each undeclared identifier is reported only once for each function it appears in
+/usr/include/i386-linux-gnu/bits/string2.h:1129:50: error: expected ';' before '__s'
+/usr/include/i386-linux-gnu/bits/string2.h: In function '__strpbrk_c3':
+/usr/include/i386-linux-gnu/bits/string2.h:1142:42: error: 'size_t' undeclared (first use in this function)
+/usr/include/i386-linux-gnu/bits/string2.h:1142:50: error: expected ';' before '__s'
+In file included from /usr/include/i386-linux-gnu/bits/string2.h:1298:0,
+                 from /usr/include/string.h:637,
+                 from main.c:2:
+/usr/include/stdlib.h: At top level:
+/usr/include/stdlib.h:471:22: error: unknown type name 'size_t'
+/usr/include/stdlib.h:473:22: error: unknown type name 'size_t'
+/usr/include/stdlib.h:473:38: error: unknown type name 'size_t'
+In file included from /usr/include/string.h:637:0,
+                 from main.c:2:
+/usr/include/i386-linux-gnu/bits/string2.h:1322:49: error: unknown type name 'size_t'
+In file included from /usr/include/string.h:642:0,
+                 from main.c:2:
+/usr/include/i386-linux-gnu/bits/string3.h:49:1: error: unknown type name 'size_t'
+/usr/include/i386-linux-gnu/bits/string3.h:56:1: error: unknown type name 'size_t'
+/usr/include/i386-linux-gnu/bits/string3.h:77:1: error: unknown type name 'size_t'
+/usr/include/i386-linux-gnu/bits/string3.h:90:1: error: unknown type name 'size_t'
+/usr/include/i386-linux-gnu/bits/string3.h:96:1: error: unknown type name 'size_t'
+/usr/include/i386-linux-gnu/bits/string3.h:118:1: error: unknown type name 'size_t'
+/usr/include/i386-linux-gnu/bits/string3.h:125:64: error: unknown type name 'size_t'
+/usr/include/i386-linux-gnu/bits/string3.h:126:8: error: unknown type name 'size_t'
+/usr/include/i386-linux-gnu/bits/string3.h:127:14: error: unknown type name 'size_t'
+/usr/include/i386-linux-gnu/bits/string3.h:132:1: error: unknown type name 'size_t'
+/usr/include/i386-linux-gnu/bits/string3.h:149:1: error: unknown type name 'size_t'
+main.c: In function 'main':
+main.c:61:36: error: 'stdin' undeclared (first use in this function)
+main.c:66:36: warning: incompatible implicit declaration of built-in function 'printf' [enabled by default]

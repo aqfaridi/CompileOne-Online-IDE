@@ -1,0 +1,7 @@
+main.cpp: In function 'int main()':
+main.cpp:46:26: error: no matching function for call to 'getline(std::istream&, char [1001])'
+main.cpp:46:26: note: candidates are:
+/usr/include/i386-linux-gnu/bits/stdio.h:116:1: note: __ssize_t getline(char**, size_t*, FILE*)
+/usr/include/i386-linux-gnu/bits/stdio.h:116:1: note:   candidate expects 3 arguments, 2 provided
+/usr/include/c++/4.6/bits/basic_string.h:2734:5: note: template<class _CharT, class _Traits, class _Alloc> std::basic_istream<_CharT, _Traits>& std::getline(std::basic_istream<_CharT, _Traits>&, std::basic_string<_CharT, _Traits, _Alloc>&)
+/usr/include/c++/4.6/bits/basic_string.tcc:1070:5: note: template<class _CharT, class _Traits, class _Alloc> std::basic_istream<_CharT, _Traits>& std::getline(std::basic_istream<_CharT, _Traits>&, std::basic_string<_CharT, _Traits, _Alloc>&, _CharT)

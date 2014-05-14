@@ -1,0 +1,4 @@
+code_53f3c4dc0b941.java:4: class, interface, or enum expected
+package java.practisecode;
+^
+1 error

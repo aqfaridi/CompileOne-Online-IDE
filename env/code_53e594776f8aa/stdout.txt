@@ -1,0 +1,2 @@
+{'LANG': 'C', 'APACHE_LOCK_DIR': '/var/lock/apache2', 'APACHE_RUN_USER': 'www-data', 'PWD': '/var/www/compileone', 'APACHE_PID_FILE': '/var/run/apache2.pid', 'APACHE_RUN_DIR': '/var/run/apache2', 'APACHE_LOG_DIR': '/var/log/apache2', 'APACHE_RUN_GROUP': 'www-data', 'PATH': '/usr/local/bin:/usr/bin:/bin'}
+-1

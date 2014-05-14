@@ -1,0 +1,10 @@
+Traceback (most recent call last):
+  File "main.py", line 3, in <module>
+    subprocess.call(["ls", "-l"])
+  File "/usr/lib/python2.7/subprocess.py", line 493, in call
+    return Popen(*popenargs, **kwargs).wait()
+  File "/usr/lib/python2.7/subprocess.py", line 679, in __init__
+    errread, errwrite)
+  File "/usr/lib/python2.7/subprocess.py", line 1143, in _execute_child
+    self.pid = os.fork()
+OSError: [Errno 11] Resource temporarily unavailable

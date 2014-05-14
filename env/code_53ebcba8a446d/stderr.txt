@@ -1,0 +1,3 @@
+main.c: In function 'main':
+main.c:61:5: error: too many arguments to function 'gets'
+/usr/include/i386-linux-gnu/bits/stdio2.h:226:1: note: declared here

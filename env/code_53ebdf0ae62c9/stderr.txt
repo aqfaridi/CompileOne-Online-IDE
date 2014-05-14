@@ -1,0 +1,3 @@
+main.c: In function 'main':
+main.c:70:6: error: expected ';' before 'stripcomment'
+main.c:68:10: warning: ignoring return value of 'gets', declared with attribute warn_unused_result [-Wunused-result]

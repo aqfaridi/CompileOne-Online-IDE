@@ -1,0 +1,4 @@
+  File "main.py", line 1
+    /* write your code below */
+    ^
+SyntaxError: invalid syntax

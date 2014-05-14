@@ -1,0 +1,4 @@
+  File "main.py", line 9
+    if('7' in str(num):
+                      ^
+SyntaxError: invalid syntax

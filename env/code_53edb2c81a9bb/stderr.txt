@@ -1,0 +1,5 @@
+main.c: In function 'main':
+main.c:7:13: error: expected ';' before ':' token
+main.c:9:27: error: expected ')' before ';' token
+main.c:10:2: error: expected ';' before '}' token
+main.c:5:7: warning: ignoring return value of 'scanf', declared with attribute warn_unused_result [-Wunused-result]

@@ -1,0 +1,9 @@
+main.cpp:20:5: error: stray '\342' in program
+main.cpp:20:5: error: stray '\200' in program
+main.cpp:20:5: error: stray '\235' in program
+main.cpp:20:5: error: stray '\342' in program
+main.cpp:20:5: error: stray '\200' in program
+main.cpp:20:5: error: stray '\235' in program
+main.cpp: In function 'int main()':
+main.cpp:20:23: error: 's' was not declared in this scope
+main.cpp:20:24: error: 'card' was not declared in this scope

@@ -1,0 +1,4 @@
+code_53f367b319530.java:1: class MyFirstJavaProgram is public, should be declared in a file named MyFirstJavaProgram.java
+public class MyFirstJavaProgram {
+       ^
+1 error

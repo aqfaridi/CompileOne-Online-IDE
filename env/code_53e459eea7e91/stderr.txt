@@ -1,0 +1,2 @@
+awk: main.awk:1: print "hello world"
+awk: main.awk:1: ^ syntax error

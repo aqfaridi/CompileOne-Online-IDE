@@ -1,0 +1,7 @@
+main.c: In function 'main':
+main.c:47:14: warning: ignoring return value of 'fscanf', declared with attribute warn_unused_result [-Wunused-result]
+main.c:89:12: warning: ignoring return value of 'scanf', declared with attribute warn_unused_result [-Wunused-result]
+/tmp/cceNMiei.o: In function `main':
+code_53e5f823d3380.c:(.text.startup+0xd): undefined reference to `clrscr'
+code_53e5f823d3380.c:(.text.startup+0x1ed): undefined reference to `getch'
+collect2: ld returned 1 exit status

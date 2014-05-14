@@ -1,0 +1,16 @@
+code_53ec587dd3634.java:9: ')' expected
+		System.out.print(""Sir Syed University of Engineering & Technology");// your code goes here
+		                   ^
+code_53ec587dd3634.java:9: ';' expected
+		System.out.print(""Sir Syed University of Engineering & Technology");// your code goes here
+		                                      ^
+code_53ec587dd3634.java:9: ';' expected
+		System.out.print(""Sir Syed University of Engineering & Technology");// your code goes here
+		                                                     ^
+code_53ec587dd3634.java:9: unclosed string literal
+		System.out.print(""Sir Syed University of Engineering & Technology");// your code goes here
+		                                                                  ^
+code_53ec587dd3634.java:9: not a statement
+		System.out.print(""Sir Syed University of Engineering & Technology");// your code goes here
+		                                                        ^
+5 errors

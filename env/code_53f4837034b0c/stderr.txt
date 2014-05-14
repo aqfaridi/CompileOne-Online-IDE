@@ -1,0 +1,14 @@
+code_53f4837034b0c.java:4: package java.swing does not exist
+import java.swing.*;
+^
+code_53f4837034b0c.java:9: cannot find symbol
+symbol  : class JFrame
+location: class Main
+		JFrame jframe=new JFrame();
+		^
+code_53f4837034b0c.java:9: cannot find symbol
+symbol  : class JFrame
+location: class Main
+		JFrame jframe=new JFrame();
+		                  ^
+3 errors

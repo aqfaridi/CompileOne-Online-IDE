@@ -1,0 +1,3 @@
+main.cpp: In function 'int main()':
+main.cpp:5:2: error: 'cklvnlkvb' was not declared in this scope
+main.cpp:6:2: error: expected ';' before 'bfb'

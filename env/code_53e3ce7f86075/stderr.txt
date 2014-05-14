@@ -1,0 +1,3 @@
+
+main.hs:2:1:
+    parse error (possibly incorrect indentation)

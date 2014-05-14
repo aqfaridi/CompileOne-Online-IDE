@@ -1,0 +1,10 @@
+main.cpp: In function 'int main()':
+main.cpp:6:8: error: no match for 'operator>>' in 'std::cout >> "Hello World"'
+main.cpp:6:8: note: candidates are:
+/usr/include/c++/4.6/bits/basic_string.tcc:998:5: note: template<class _CharT, class _Traits, class _Alloc> std::basic_istream<_CharT, _Traits>& std::operator>>(std::basic_istream<_CharT, _Traits>&, std::basic_string<_CharT, _Traits, _Alloc>&)
+/usr/include/c++/4.6/bits/istream.tcc:957:5: note: template<class _CharT2, class _Traits2> std::basic_istream<_CharT, _Traits>& std::operator>>(std::basic_istream<_CharT, _Traits>&, _CharT2*)
+/usr/include/c++/4.6/bits/istream.tcc:925:5: note: template<class _CharT, class _Traits> std::basic_istream<_CharT, _Traits>& std::operator>>(std::basic_istream<_CharT, _Traits>&, _CharT&)
+/usr/include/c++/4.6/istream:709:5: note: template<class _Traits> std::basic_istream<char, _Traits>& std::operator>>(std::basic_istream<char, _Traits>&, unsigned char&)
+/usr/include/c++/4.6/istream:714:5: note: template<class _Traits> std::basic_istream<char, _Traits>& std::operator>>(std::basic_istream<char, _Traits>&, signed char&)
+/usr/include/c++/4.6/istream:756:5: note: template<class _Traits> std::basic_istream<char, _Traits>& std::operator>>(std::basic_istream<char, _Traits>&, unsigned char*)
+/usr/include/c++/4.6/istream:761:5: note: template<class _Traits> std::basic_istream<char, _Traits>& std::operator>>(std::basic_istream<char, _Traits>&, signed char*)

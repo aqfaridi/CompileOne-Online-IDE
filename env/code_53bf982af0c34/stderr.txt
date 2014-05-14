@@ -1,0 +1,3 @@
+
+main.hs:2:3:
+    parse error on input `='

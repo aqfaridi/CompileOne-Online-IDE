@@ -1,0 +1,4 @@
+main.c:1:10: error: #include expects "FILENAME" or <FILENAME>
+main.c: In function 'main':
+main.c:4:5: error: 'cout' undeclared (first use in this function)
+main.c:4:5: note: each undeclared identifier is reported only once for each function it appears in

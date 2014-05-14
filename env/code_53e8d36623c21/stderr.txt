@@ -1,0 +1,2 @@
+main.cpp: In function 'int main()':
+main.cpp:12:37: error: 'shuffle' was not declared in this scope

@@ -1,0 +1,7 @@
+main.c: In function 'stripcomment':
+main.c:60:17: warning: multi-character character constant [-Wmultichar]
+main.c:60:5: warning: overflow in implicit constant conversion [-Woverflow]
+main.c: At top level:
+main.c:63:2: error: unknown type name 'Void'
+main.c: In function 'main':
+main.c:67:10: warning: ignoring return value of 'gets', declared with attribute warn_unused_result [-Wunused-result]

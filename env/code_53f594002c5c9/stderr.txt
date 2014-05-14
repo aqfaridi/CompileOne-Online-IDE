@@ -1,0 +1,2 @@
+main.c: In function 'main':
+main.c:9:10: error: lvalue required as increment operand

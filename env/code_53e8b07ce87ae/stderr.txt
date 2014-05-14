@@ -1,0 +1,2 @@
+main.c:2:9: error: #include expects "FILENAME" or <FILENAME>
+main.c:3:8: error: macro names must be identifiers

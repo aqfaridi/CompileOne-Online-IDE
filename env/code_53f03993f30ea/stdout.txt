@@ -1,0 +1,3 @@
+Size of arr[] 24
+Size of ptr 4
+10

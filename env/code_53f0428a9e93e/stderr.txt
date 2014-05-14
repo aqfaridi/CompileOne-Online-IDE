@@ -1,0 +1,1 @@
+main.cs(7,17): error CS0103: The name `printf' does not exist in the current context

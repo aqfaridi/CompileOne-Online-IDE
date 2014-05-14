@@ -1,0 +1,1 @@
+Enter the lengthEnter the widthThe area islength * width

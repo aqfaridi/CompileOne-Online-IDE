@@ -1,0 +1,5 @@
+main.c:9:12: error: expected '=', ',', ';', 'asm' or '__attribute__' before numeric constant
+main.c:51:1: error: expected identifier or '(' before '}' token
+main.c: In function 'main':
+main.c:54:15: error: 'MAX_LENGTH' undeclared (first use in this function)
+main.c:54:15: note: each undeclared identifier is reported only once for each function it appears in

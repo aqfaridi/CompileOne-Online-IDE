@@ -1,0 +1,2 @@
+main.c: In function 'main':
+main.c:5:16: error: expected identifier or '(' before numeric constant

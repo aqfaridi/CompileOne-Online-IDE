@@ -1,0 +1,11 @@
+code_53f483976f366.java:9: cannot find symbol
+symbol  : class JFrame
+location: class Main
+		JFrame jframe=new JFrame();
+		^
+code_53f483976f366.java:9: cannot find symbol
+symbol  : class JFrame
+location: class Main
+		JFrame jframe=new JFrame();
+		                  ^
+2 errors

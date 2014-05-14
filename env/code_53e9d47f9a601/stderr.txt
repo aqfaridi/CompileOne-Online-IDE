@@ -1,0 +1,1 @@
+PHP Parse error:  syntax error, unexpected '<' in main.php on line 5

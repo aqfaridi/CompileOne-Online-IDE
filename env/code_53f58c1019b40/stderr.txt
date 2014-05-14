@@ -1,0 +1,2 @@
+main.c: In function 'main':
+main.c:4:5: error: invalid suffix "printf" on integer constant

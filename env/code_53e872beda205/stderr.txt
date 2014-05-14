@@ -1,0 +1,4 @@
+code_53e872beda205.java:9: ';' expected
+	System.out.print(args[0])
+	                         ^
+1 error

@@ -1,0 +1,499 @@
+
+
+
+
+/*
+a.more .second{
+	display: none;
+}
+*/
+
+.ui-widget-content .draggable{
+	float: right;
+	border: 1px solid #eeeeee;
+	width: 30px;
+	height: 15px;
+	cursor: move;
+	background: #fcfcfc;
+}
+
+#publiclabel_info_box{
+	padding-left: 10px;
+	width: 190px;
+}
+#publiclabel_info_box .link,
+#publiclabel_info_box .owner{
+	margin: 0px;
+}
+
+#action_label_publish_desc{
+	/*width: 100%;*/
+}
+
+#list_result li label{
+	font-size: 11px;
+	text-transform: lowercase;
+}
+
+#sort_date_info_desc, #sort_date_info_asc{
+	font-size: 1.1em;
+}
+
+
+
+.ui-resizable-helper { border: 1px dotted green; }
+.ui-state-highlight { height: 1.5em; line-height: 1.2em; }
+
+
+
+.sortable-box{
+	position: relative;
+}
+.sortable-box .sortable-handler{
+	position: absolute;
+	top: 0px;
+	right: 30px;
+	display: none;
+	cursor: move;
+}
+.sortable-box:hover .sortable-handler{
+	display: block;
+}
+
+.label_add label,
+.label_rename label,
+.label_publish label{
+	margin-top: 5px;
+	margin-left: 7px;
+	margin-bottom: 3px;
+	display: block;
+}
+.label_add table,
+.label_rename table,
+.label_rename input[type=text],
+.label_publish table,
+.label_publish input[type=text]{
+	/*width: 100%;*/
+}
+
+#list_label {
+	height: 160px;
+	overflow-x: hidden;
+}
+#list_label_header{
+	position: absolute;
+	z-index: 10;
+	background: white;
+	height: 17px;
+	padding: 2px;
+	padding-left: 0px;
+	margin-left: 15px;
+	margin-top: 1px;
+	/*width: 145px;*/
+	font-size: 11px;
+}
+
+#pub_sub_label{
+	width: 100px;
+}
+
+#filter-1{
+	width: 100px;
+}
+#filter-1-1{
+	color: red;
+	margin-left: 5px;
+	font-weight: bold;
+	display: none;
+}
+
+#label_edit{
+	/*width: 100%;*/
+}
+
+#action_label_publish_link, 
+#action_label_publish_desc{
+	/*width: 370px;*/
+}
+
+.publiclabel_note_text{
+	display:block;
+	margin-top:-9px;
+	overflow:hidden;
+	position:absolute;
+	width:300px;
+	height: 17px;
+}
+.publiclabel_note_text:hover{
+	height: auto;
+	z-index: 10;
+	background: white;
+	border: 1px solid #cccccc;
+	margin-top:-13px;
+	margin-left: -4px;
+	padding: 3px;
+}
+
+
+
+
+
+/* logowanie strona glowna*/
+.sign-in {
+	color: #C2C2C2;
+	font-size: 10px;
+	display: inline-table;
+}
+.new-sign-in{
+	display: inline-table;
+	margin-left: 10px;
+}
+.new-sign-in>div:first-child{
+	line-height: 24px;
+	margin-bottom: 6px;
+}
+.new-sign-in>div:first-child>a{
+	min-width: 53px;
+	display: inline-block;
+	text-align: center;
+	line-height: 20px;
+}
+.sign-in > div {
+	background-color: #F0F0F0;
+	border: 1px solid #F0F0F0;
+	float: right;
+}
+.sign-in > div > :first-child {
+	color: #707070;
+	float: left;
+	font-size: 12px;
+	line-height: 20px;
+	padding: 0px 21px 0px 7px;
+	text-transform: lowercase;
+}
+.sign-in form {
+	float: left;
+	padding-right: 10px;
+	position: relative;
+}
+.sign-in p {
+clear: both;
+padding-top: 3px;
+text-align: right;
+text-transform: lowercase;
+}
+.sign-in input[type="text"] {
+margin-bottom: 1px;
+}
+.sign-in fieldset {
+border: 0px;
+}
+.sign-in input[type="text"], .sign-in input[type="password"] {
+background-color: white;
+border: 0px;
+display: block;
+font-size: 10px;
+margin: 0px 1px 0px 0px;
+padding: 4px 4px 5px;
+width: 98px;
+}
+.sign-in button {
+background: transparent url(/gfx/sign-in.png) no-repeat 50% 50%;
+border: 0px;
+bottom: 0px;
+cursor: pointer;
+margin: 0px;
+padding: 0px;
+position: absolute;
+right: 0px;
+top: 0px;
+width: 20px;
+}
+
+.dropdown-menu.panel{
+	padding: 10px;
+}
+
+
+
+/* ******************************************************
+ * account
+ * *************************************************** */
+#labels_box>label,
+#lang_box>label{
+	margin-left: 3px;
+}
+#account_labels_box ol{
+	list-style: none;
+	padding-left: 5px;
+	height: 150px;
+	overflow-y: auto;
+	margin: 0px 0px 10px 0px !important;
+}
+
+
+
+/* ******************************************************
+ * API
+ * *************************************************** */
+
+/*.api-table h3{
+	text-align: center;
+}
+.api-table li{
+	margin: 18px 10px;
+		padding-bottom: 10px;
+		border: 0;
+		border-bottom: 1px solid #E5E5E5;
+}
+
+.api-examples div.thumbnail{
+	height: 160px;
+	padding: 0px;
+	border: 0px;
+	-moz-box-shadow: none;
+	box-shadow: none;
+}
+.api-examples a.thumbnail{
+	max-height: 150px;
+	overflow: hidden;
+}
+
+.api-examples p{
+	word-wrap: break-word;
+	text-overflow: ellipsis;
+	max-height: 160px;
+	overflow: hidden;
+}*/
+
+legend.pricing-legend {
+	background-color: #e5e5e5; /*#f8f8f8;*/
+	border: 0px;
+	font-size: 120%;
+	color: #333; /*#777;*/
+	font-weight: bold;
+	line-height: normal;
+}
+
+legend.pricing-legend > div {
+	padding: 8px;
+}
+	
+ul.pricing-list {
+	margin-left: 10px;
+}
+
+ul.pricing-list li {
+	list-style: none;
+}
+
+/* ******************************************************
+ * FAQ
+ * *************************************************** */
+
+.faq > a{
+	display: block;
+	font-weight: bold;
+}
+.faq > div{
+	margin-bottom: 1em;
+}
+
+.faq > a{
+	padding-left: 1.3em;
+	position: relative;
+}
+.faq > div{
+	padding-left: 1.3em;
+}
+.faq .icon-angle-down,
+.faq .icon-angle-right{
+	position: absolute;
+	top: 3px;
+	left: 0px;
+}
+
+.faq > a > .icon-angle-down{
+	display: none;
+}
+.faq > a.black .icon-angle-down{
+	display: inline;
+}
+.faq > a.black .icon-angle-right{
+	display: none;
+}
+
+.faq pre {
+	display: inline;
+	padding: 2px 2px 1px 2px;
+	position: relative;
+	top: -1px;
+}
+
+/* ******************************************************
+ * LOGIN FORM /account/login, FORGOT FORM /account/forgot, REGISTER FORM /account/regiser, PAYMENT PLAN /sphere-engine/payment-plan/xxx
+ * ******************************************************/
+
+
+
+
+
+
+
+
+
+
+#bug_dialog fieldset {
+	border: 0 none;
+}
+#bug_dialog #bug_langs_div,
+#bug_dialog #bug_language_other,
+#bug_dialog #bug_category_other,
+#bug_dialog #bug_type_other,
+#bug_dialog #bug_saving,
+#bug_dialog #bug_thanks {
+	display: none;	
+}
+
+
+
+
+
+
+
+
+.no-radius{
+	-webkit-border-radius: 0px !important;
+	-moz-border-radius: 0px !important;
+	-o-border-radius: 0px !important;
+	border-radius: 0px !important;
+}
+
+.boxsizingBorder {
+    -webkit-box-sizing: border-box;
+       -moz-box-sizing: border-box;
+            box-sizing: border-box;
+}
+
+
+
+
+
+/* checkbox z font awesome */
+/*.ex-more-options-box input[type="radio"],*/
+.ex-more-options-box input[type="checkbox"] {
+  display:none;
+}
+
+/*.ex-more-options-box input[type="radio"] + span:before,*/
+.ex-more-options-box input[type="checkbox"] + span:before {
+  font-family: "fontello";
+  padding-right: 3px;
+}
+
+/*
+.ex-more-options-box input[type="radio"] + span:before {
+  content: "\f10c";
+}
+.ex-more-options-box input[type="radio"]:checked + span:before {
+  content: "\f111";
+}
+*/
+
+.ex-more-options-box input[type="checkbox"] + span:before {
+  content: "\e8fb"; /* check-empty */
+}
+
+.ex-more-options-box input[type="checkbox"]:checked + span:before {
+  content: "\e8fa"; /* check */
+}
+
+
+
+
+
+
+
+
+#main_form{
+	padding-bottom: 90px;
+}
+
+.is-mobile #main_form{
+	padding-bottom: 110px;
+}
+.mobile-share{
+	text-align: center;
+	padding: 10px;
+}
+
+
+
+
+
+
+
+
+/* affix */
+.right-sidebar.affix-top{
+	top: 0px;
+}
+.right-sidebar.affix{
+	top: 20px;
+}
+.right-sidebar .g{
+	width: 300px;
+	text-align: right;
+}
+@media (min-width: 1200px){
+	.right-sidebar .g{
+		width: 370px;
+	}
+}
+.right-sidebar .g.gc{
+	text-align: left;
+}
+.right-sidebar .g.gt{
+	margin-top: 20px;
+}
+
+
+
+/* kod zrodlowy */
+.view_box pre,					/* view */
+.source-view .content pre,		/* recent, samples */
+#preview-dialog pre				/* podglad w myrecent */
+{
+	background-color: white !important;
+	border: 0px !important;
+	padding: 0px !important;
+	margin: 0px !important;
+	/*box-shadow: 1px 1px 3px #e7e7e7;*/
+}
+
+.view_box pre ol,
+.source-view .content pre ol,
+#preview-dialog pre ol
+{
+	margin: 0px !important;
+	padding: 0 0 0 48px !important;
+	background: /*white*/ #efefef !important;
+	font-size: 12px !important;
+}
+
+.view_box pre ol li,
+.source-view .content pre ol li,
+#preview-dialog pre ol li
+{
+	background: #F8F8F8 !important;
+	padding-left: 10px !important;
+}
+
+
+
+
+
+
+/* Price Tables
+=================================================================== */
+

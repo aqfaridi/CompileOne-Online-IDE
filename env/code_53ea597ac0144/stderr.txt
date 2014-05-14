@@ -1,0 +1,4 @@
+code_53ea597ac0144.java:3: class TestClass is public, should be declared in a file named TestClass.java
+public class TestClass {
+       ^
+1 error

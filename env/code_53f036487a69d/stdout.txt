@@ -1,0 +1,8 @@
+a:
+b:
+1.add
+2.sub
+3.mult
+4.div
+5.exit
+enter the value:entered wrong value

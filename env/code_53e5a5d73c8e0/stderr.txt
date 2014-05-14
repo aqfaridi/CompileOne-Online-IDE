@@ -1,0 +1,5 @@
+main.cpp: In function 'int main()':
+main.cpp:52:5: error: 'set' was not declared in this scope
+main.cpp:52:16: error: expected primary-expression before '>' token
+main.cpp:52:18: error: 'str' was not declared in this scope
+main.cpp:51:19: warning: ignoring return value of 'int scanf(const char*, ...)', declared with attribute warn_unused_result [-Wunused-result]

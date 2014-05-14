@@ -1,0 +1,3 @@
+main.cpp: In function 'int main()':
+main.cpp:56:13: error: request for member 'insert' in 'str', which is of non-class type 'std::set<std::basic_string<char> > [100]'
+main.cpp:52:19: warning: ignoring return value of 'int scanf(const char*, ...)', declared with attribute warn_unused_result [-Wunused-result]

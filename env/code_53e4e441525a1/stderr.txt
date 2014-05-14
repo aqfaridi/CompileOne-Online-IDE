@@ -1,0 +1,4 @@
+code_53e4e441525a1.java:5: class Main is public, should be declared in a file named Main.java
+public class Main {
+       ^
+1 error

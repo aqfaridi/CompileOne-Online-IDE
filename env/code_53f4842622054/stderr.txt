@@ -1,0 +1,8 @@
+Exception in thread "main" java.awt.HeadlessException: 
+No X11 DISPLAY variable was set, but this program performed an operation which requires it.
+	at java.awt.GraphicsEnvironment.checkHeadless(GraphicsEnvironment.java:173)
+	at java.awt.Window.<init>(Window.java:476)
+	at java.awt.Frame.<init>(Frame.java:419)
+	at java.awt.Frame.<init>(Frame.java:384)
+	at javax.swing.JFrame.<init>(JFrame.java:174)
+	at Main.main(Unknown Source)

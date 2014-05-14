@@ -1,0 +1,3 @@
+main.cpp: In function 'int main()':
+main.cpp:51:40: error: 'scanf' was not declared in this scope
+main.cpp:63:28: error: 'printf' was not declared in this scope

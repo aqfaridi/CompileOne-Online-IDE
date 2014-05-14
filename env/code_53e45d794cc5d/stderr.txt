@@ -1,0 +1,1 @@
+awk: main.awk:1: (FILENAME=- FNR=1) fatal: print to "standard output" failed (File too large)

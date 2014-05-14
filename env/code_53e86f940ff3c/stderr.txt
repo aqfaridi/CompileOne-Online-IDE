@@ -1,0 +1,5 @@
+main.cpp: In function 'int main()':
+main.cpp:18:10: error: missing template arguments before '*' token
+main.cpp:18:12: error: 'vec' was not declared in this scope
+main.cpp:18:22: error: expected type-specifier before 'Vector3d'
+main.cpp:18:22: error: expected ';' before 'Vector3d'

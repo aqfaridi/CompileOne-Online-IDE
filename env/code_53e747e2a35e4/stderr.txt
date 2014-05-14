@@ -1,0 +1,4 @@
+  File "main.py", line 21
+    raise ValueError, "Dijkstra: found better path to already-final vertex"
+                    ^
+SyntaxError: invalid syntax

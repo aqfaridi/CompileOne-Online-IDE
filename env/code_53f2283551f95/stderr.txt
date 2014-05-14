@@ -1,0 +1,5 @@
+main.c: In function 'main':
+main.c:11:13: error: 'i' undeclared (first use in this function)
+main.c:11:13: note: each undeclared identifier is reported only once for each function it appears in
+main.c:6:10: warning: ignoring return value of 'scanf', declared with attribute warn_unused_result [-Wunused-result]
+main.c:8:14: warning: ignoring return value of 'scanf', declared with attribute warn_unused_result [-Wunused-result]

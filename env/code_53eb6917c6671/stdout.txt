@@ -1,0 +1,2 @@
+Hello from foo_func
+Hello from main

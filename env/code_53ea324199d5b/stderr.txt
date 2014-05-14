@@ -1,0 +1,4 @@
+  File "main.py", line 2
+    print 'hello world'
+                      ^
+SyntaxError: invalid syntax

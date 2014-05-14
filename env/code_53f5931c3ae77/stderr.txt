@@ -1,0 +1,8 @@
+main.c: In function 'main':
+main.c:7:1: error: stray '\342' in program
+main.c:7:1: error: stray '\200' in program
+main.c:7:1: error: stray '\234' in program
+main.c:7:11: error: expected expression before '%' token
+main.c:7:11: error: stray '\342' in program
+main.c:7:11: error: stray '\200' in program
+main.c:7:11: error: stray '\235' in program

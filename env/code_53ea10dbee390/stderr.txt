@@ -1,0 +1,2 @@
+main.cpp: In function 'int main()':
+main.cpp:40:15: error: cannot convert 'std::string {aka std::basic_string<char>}' to 'const char*' for argument '1' to 'int strcmp(const char*, const char*)'

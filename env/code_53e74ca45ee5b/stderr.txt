@@ -1,0 +1,7 @@
+main.c: In function 'main':
+main.c:66:18: warning: ignoring return value of 'scanf', declared with attribute warn_unused_result [-Wunused-result]
+main.c:72:10: warning: ignoring return value of 'scanf', declared with attribute warn_unused_result [-Wunused-result]
+main.c:74:10: warning: ignoring return value of 'scanf', declared with attribute warn_unused_result [-Wunused-result]
+/tmp/cc4ZgSg9.o: In function `dijsktra':
+code_53e74ca45ee5b.c:(.text+0x163): undefined reference to `strrev'
+collect2: ld returned 1 exit status

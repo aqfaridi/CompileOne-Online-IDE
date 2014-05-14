@@ -1,0 +1,3 @@
+main.c:63:2: error: unknown type name 'Void'
+main.c: In function 'main':
+main.c:67:10: warning: ignoring return value of 'gets', declared with attribute warn_unused_result [-Wunused-result]

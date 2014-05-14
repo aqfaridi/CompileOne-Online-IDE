@@ -1,0 +1,2 @@
+main.c: In function 'main':
+main.c:6:10: error: lvalue required as left operand of assignment

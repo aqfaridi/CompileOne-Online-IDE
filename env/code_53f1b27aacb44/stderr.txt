@@ -1,0 +1,2 @@
+main.cpp: In function 'int main()':
+main.cpp:48:12: error: 'tax' was not declared in this scope

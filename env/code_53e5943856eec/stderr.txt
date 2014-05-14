@@ -1,0 +1,4 @@
+  File "main.py", line 5
+    print os.exec(ls)
+                ^
+SyntaxError: invalid syntax

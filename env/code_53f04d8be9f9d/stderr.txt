@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "main.py", line 4, in <module>
+    a,m = map(int,s.split(' '))
+ValueError: invalid literal for int() with base 10: ''

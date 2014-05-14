@@ -1,0 +1,10 @@
+main.c: In function 'stripcomment':
+main.c:35:22: error: 'currnet' undeclared (first use in this function)
+main.c:35:22: note: each undeclared identifier is reported only once for each function it appears in
+main.c:36:135: error: 'ondx' undeclared (first use in this function)
+main.c:60:17: warning: multi-character character constant [-Wmultichar]
+main.c:60:5: warning: overflow in implicit constant conversion [-Woverflow]
+main.c: At top level:
+main.c:63:2: error: unknown type name 'Void'
+main.c: In function 'main':
+main.c:67:10: warning: ignoring return value of 'gets', declared with attribute warn_unused_result [-Wunused-result]

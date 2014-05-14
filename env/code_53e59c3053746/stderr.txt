@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "main.py", line 11, in <module>
+    n("/home/navs")
+  File "main.py", line 6, in n
+    os.makedirs(path)
+  File "/usr/lib/python2.7/os.py", line 157, in makedirs
+    mkdir(name, mode)
+OSError: [Errno 13] Permission denied: '/home/navs'

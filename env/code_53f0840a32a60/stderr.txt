@@ -1,0 +1,2 @@
+main.cpp:2:19: fatal error:  cstdio: No such file or directory
+compilation terminated.

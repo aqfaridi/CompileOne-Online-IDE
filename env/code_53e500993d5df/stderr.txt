@@ -1,0 +1,4 @@
+code_53e500993d5df.java:24: warning: [serial] serializable class carrom5 has no definition of serialVersionUID
+class carrom5 extends JPanel implements KeyListener,MouseListener
+^
+1 warning

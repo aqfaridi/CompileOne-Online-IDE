@@ -1,0 +1,4 @@
+main.c:6:1: warning: data definition has no type or storage class [enabled by default]
+/tmp/ccdAOX5l.o: In function `main':
+code_53f58c871bf2d.c:(.text.startup+0x7): undefined reference to `clrscr'
+collect2: ld returned 1 exit status

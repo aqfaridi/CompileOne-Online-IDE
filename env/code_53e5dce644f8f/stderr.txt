@@ -1,0 +1,5 @@
+main.c: In function 'main':
+main.c:7:1: warning: incompatible implicit declaration of built-in function 'printf' [enabled by default]
+/tmp/ccI7rP8Y.o: In function `main':
+code_53e5dce644f8f.c:(.text.startup+0x42): undefined reference to `getch'
+collect2: ld returned 1 exit status

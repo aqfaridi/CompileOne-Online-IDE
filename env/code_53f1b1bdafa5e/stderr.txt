@@ -1,0 +1,5 @@
+main.cpp: In function 'int main()':
+main.cpp:45:7: error: 'girl' was not declared in this scope
+main.cpp:47:2: error: expected ';' before 'cout'
+main.cpp:62:2: error: expected ';' before 'cout'
+main.cpp:77:2: error: expected ';' before 'cout'

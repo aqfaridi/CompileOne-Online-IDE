@@ -1,0 +1,4 @@
+main.cpp: In function 'int main()':
+main.cpp:43:17: error: 'v' was not declared in this scope
+main.cpp:53:10: error: 'v' was not declared in this scope
+main.cpp:61:4: error: 'sum' was not declared in this scope

@@ -1,0 +1,7 @@
+main.java:13: error: not a statement
+        long result = 1;gf
+                        ^
+main.java:13: error: ';' expected
+        long result = 1;gf
+                          ^
+2 errors

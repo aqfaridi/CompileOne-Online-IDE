@@ -1,0 +1,15 @@
+# BEGIN non-WWW to WWW
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^210\.212\.152\.7
+RewriteRule (.*) http://www.compileone.com/$1 [R=301,L]
+
+
+RewriteEngine On
+RewriteCond %{HTTP_HOST} !^www.compileone.com$ [NC]
+RewriteRule ^(.*)$ http://www.compileone.com/$1 [L,R=301]
+# END non-WWW to WWW
+RewriteCond %{HTTP_USER_AGENT} libwww [NC,OR]
+
+RewriteCond %{QUERY_STRING} ^(.*)=http [NC]
+
+RewriteRule ^(.*)$ – [F,L]

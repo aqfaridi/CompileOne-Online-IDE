@@ -1,0 +1,7 @@
+Traceback (most recent call last):
+  File "main.py", line 3, in <module>
+    s = input()
+  File "<string>", line 1
+    11 15
+        ^
+SyntaxError: invalid syntax

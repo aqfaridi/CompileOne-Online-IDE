@@ -1,0 +1,122 @@
+main.cpp: In function 'int main()':
+main.cpp:22:6: error: incompatible types in assignment of 'const char [1]' to 'std::string [20] {aka std::basic_string<char> [20]}'
+main.cpp:23:6: error: incompatible types in assignment of 'const char [1]' to 'std::string [20] {aka std::basic_string<char> [20]}'
+main.cpp:24:14: error: no match for 'operator>>' in 'std::cin >> I'
+main.cpp:24:14: note: candidates are:
+/usr/include/c++/4.6/istream:122:7: note: std::basic_istream<_CharT, _Traits>::__istream_type& std::basic_istream<_CharT, _Traits>::operator>>(std::basic_istream<_CharT, _Traits>::__istream_type& (*)(std::basic_istream<_CharT, _Traits>::__istream_type&)) [with _CharT = char, _Traits = std::char_traits<char>, std::basic_istream<_CharT, _Traits>::__istream_type = std::basic_istream<char>]
+/usr/include/c++/4.6/istream:122:7: note:   no known conversion for argument 1 from 'std::string [20] {aka std::basic_string<char> [20]}' to 'std::basic_istream<char>::__istream_type& (*)(std::basic_istream<char>::__istream_type&) {aka std::basic_istream<char>& (*)(std::basic_istream<char>&)}'
+/usr/include/c++/4.6/istream:126:7: note: std::basic_istream<_CharT, _Traits>::__istream_type& std::basic_istream<_CharT, _Traits>::operator>>(std::basic_istream<_CharT, _Traits>::__ios_type& (*)(std::basic_istream<_CharT, _Traits>::__ios_type&)) [with _CharT = char, _Traits = std::char_traits<char>, std::basic_istream<_CharT, _Traits>::__istream_type = std::basic_istream<char>, std::basic_istream<_CharT, _Traits>::__ios_type = std::basic_ios<char>]
+/usr/include/c++/4.6/istream:126:7: note:   no known conversion for argument 1 from 'std::string [20] {aka std::basic_string<char> [20]}' to 'std::basic_istream<char>::__ios_type& (*)(std::basic_istream<char>::__ios_type&) {aka std::basic_ios<char>& (*)(std::basic_ios<char>&)}'
+/usr/include/c++/4.6/istream:133:7: note: std::basic_istream<_CharT, _Traits>::__istream_type& std::basic_istream<_CharT, _Traits>::operator>>(std::ios_base& (*)(std::ios_base&)) [with _CharT = char, _Traits = std::char_traits<char>, std::basic_istream<_CharT, _Traits>::__istream_type = std::basic_istream<char>]
+/usr/include/c++/4.6/istream:133:7: note:   no known conversion for argument 1 from 'std::string [20] {aka std::basic_string<char> [20]}' to 'std::ios_base& (*)(std::ios_base&)'
+/usr/include/c++/4.6/istream:169:7: note: std::basic_istream<_CharT, _Traits>::__istream_type& std::basic_istream<_CharT, _Traits>::operator>>(bool&) [with _CharT = char, _Traits = std::char_traits<char>, std::basic_istream<_CharT, _Traits>::__istream_type = std::basic_istream<char>]
+/usr/include/c++/4.6/istream:169:7: note:   no known conversion for argument 1 from 'std::string [20] {aka std::basic_string<char> [20]}' to 'bool&'
+/usr/include/c++/4.6/istream:173:7: note: std::basic_istream<_CharT, _Traits>& std::basic_istream<_CharT, _Traits>::operator>>(short int&) [with _CharT = char, _Traits = std::char_traits<char>]
+/usr/include/c++/4.6/istream:173:7: note:   no known conversion for argument 1 from 'std::string [20] {aka std::basic_string<char> [20]}' to 'short int&'
+/usr/include/c++/4.6/istream:176:7: note: std::basic_istream<_CharT, _Traits>::__istream_type& std::basic_istream<_CharT, _Traits>::operator>>(short unsigned int&) [with _CharT = char, _Traits = std::char_traits<char>, std::basic_istream<_CharT, _Traits>::__istream_type = std::basic_istream<char>]
+/usr/include/c++/4.6/istream:176:7: note:   no known conversion for argument 1 from 'std::string [20] {aka std::basic_string<char> [20]}' to 'short unsigned int&'
+/usr/include/c++/4.6/istream:180:7: note: std::basic_istream<_CharT, _Traits>& std::basic_istream<_CharT, _Traits>::operator>>(int&) [with _CharT = char, _Traits = std::char_traits<char>]
+/usr/include/c++/4.6/istream:180:7: note:   no known conversion for argument 1 from 'std::string [20] {aka std::basic_string<char> [20]}' to 'int&'
+/usr/include/c++/4.6/istream:183:7: note: std::basic_istream<_CharT, _Traits>::__istream_type& std::basic_istream<_CharT, _Traits>::operator>>(unsigned int&) [with _CharT = char, _Traits = std::char_traits<char>, std::basic_istream<_CharT, _Traits>::__istream_type = std::basic_istream<char>]
+/usr/include/c++/4.6/istream:183:7: note:   no known conversion for argument 1 from 'std::string [20] {aka std::basic_string<char> [20]}' to 'unsigned int&'
+/usr/include/c++/4.6/istream:187:7: note: std::basic_istream<_CharT, _Traits>::__istream_type& std::basic_istream<_CharT, _Traits>::operator>>(long int&) [with _CharT = char, _Traits = std::char_traits<char>, std::basic_istream<_CharT, _Traits>::__istream_type = std::basic_istream<char>]
+/usr/include/c++/4.6/istream:187:7: note:   no known conversion for argument 1 from 'std::string [20] {aka std::basic_string<char> [20]}' to 'long int&'
+/usr/include/c++/4.6/istream:191:7: note: std::basic_istream<_CharT, _Traits>::__istream_type& std::basic_istream<_CharT, _Traits>::operator>>(long unsigned int&) [with _CharT = char, _Traits = std::char_traits<char>, std::basic_istream<_CharT, _Traits>::__istream_type = std::basic_istream<char>]
+/usr/include/c++/4.6/istream:191:7: note:   no known conversion for argument 1 from 'std::string [20] {aka std::basic_string<char> [20]}' to 'long unsigned int&'
+/usr/include/c++/4.6/istream:196:7: note: std::basic_istream<_CharT, _Traits>::__istream_type& std::basic_istream<_CharT, _Traits>::operator>>(long long int&) [with _CharT = char, _Traits = std::char_traits<char>, std::basic_istream<_CharT, _Traits>::__istream_type = std::basic_istream<char>]
+/usr/include/c++/4.6/istream:196:7: note:   no known conversion for argument 1 from 'std::string [20] {aka std::basic_string<char> [20]}' to 'long long int&'
+/usr/include/c++/4.6/istream:200:7: note: std::basic_istream<_CharT, _Traits>::__istream_type& std::basic_istream<_CharT, _Traits>::operator>>(long long unsigned int&) [with _CharT = char, _Traits = std::char_traits<char>, std::basic_istream<_CharT, _Traits>::__istream_type = std::basic_istream<char>]
+/usr/include/c++/4.6/istream:200:7: note:   no known conversion for argument 1 from 'std::string [20] {aka std::basic_string<char> [20]}' to 'long long unsigned int&'
+/usr/include/c++/4.6/istream:205:7: note: std::basic_istream<_CharT, _Traits>::__istream_type& std::basic_istream<_CharT, _Traits>::operator>>(float&) [with _CharT = char, _Traits = std::char_traits<char>, std::basic_istream<_CharT, _Traits>::__istream_type = std::basic_istream<char>]
+/usr/include/c++/4.6/istream:205:7: note:   no known conversion for argument 1 from 'std::string [20] {aka std::basic_string<char> [20]}' to 'float&'
+/usr/include/c++/4.6/istream:209:7: note: std::basic_istream<_CharT, _Traits>::__istream_type& std::basic_istream<_CharT, _Traits>::operator>>(double&) [with _CharT = char, _Traits = std::char_traits<char>, std::basic_istream<_CharT, _Traits>::__istream_type = std::basic_istream<char>]
+/usr/include/c++/4.6/istream:209:7: note:   no known conversion for argument 1 from 'std::string [20] {aka std::basic_string<char> [20]}' to 'double&'
+/usr/include/c++/4.6/istream:213:7: note: std::basic_istream<_CharT, _Traits>::__istream_type& std::basic_istream<_CharT, _Traits>::operator>>(long double&) [with _CharT = char, _Traits = std::char_traits<char>, std::basic_istream<_CharT, _Traits>::__istream_type = std::basic_istream<char>]
+/usr/include/c++/4.6/istream:213:7: note:   no known conversion for argument 1 from 'std::string [20] {aka std::basic_string<char> [20]}' to 'long double&'
+/usr/include/c++/4.6/istream:217:7: note: std::basic_istream<_CharT, _Traits>::__istream_type& std::basic_istream<_CharT, _Traits>::operator>>(void*&) [with _CharT = char, _Traits = std::char_traits<char>, std::basic_istream<_CharT, _Traits>::__istream_type = std::basic_istream<char>]
+/usr/include/c++/4.6/istream:217:7: note:   no known conversion for argument 1 from 'std::string [20] {aka std::basic_string<char> [20]}' to 'void*&'
+/usr/include/c++/4.6/istream:241:7: note: std::basic_istream<_CharT, _Traits>& std::basic_istream<_CharT, _Traits>::operator>>(std::basic_istream<_CharT, _Traits>::__streambuf_type*) [with _CharT = char, _Traits = std::char_traits<char>, std::basic_istream<_CharT, _Traits>::__streambuf_type = std::basic_streambuf<char>]
+/usr/include/c++/4.6/istream:241:7: note:   no known conversion for argument 1 from 'std::string [20] {aka std::basic_string<char> [20]}' to 'std::basic_istream<char>::__streambuf_type* {aka std::basic_streambuf<char>*}'
+/usr/include/c++/4.6/bits/basic_string.tcc:998:5: note: template<class _CharT, class _Traits, class _Alloc> std::basic_istream<_CharT, _Traits>& std::operator>>(std::basic_istream<_CharT, _Traits>&, std::basic_string<_CharT, _Traits, _Alloc>&)
+/usr/include/c++/4.6/bits/istream.tcc:957:5: note: template<class _CharT2, class _Traits2> std::basic_istream<_CharT, _Traits>& std::operator>>(std::basic_istream<_CharT, _Traits>&, _CharT2*)
+/usr/include/c++/4.6/bits/istream.tcc:925:5: note: template<class _CharT, class _Traits> std::basic_istream<_CharT, _Traits>& std::operator>>(std::basic_istream<_CharT, _Traits>&, _CharT&)
+/usr/include/c++/4.6/istream:709:5: note: template<class _Traits> std::basic_istream<char, _Traits>& std::operator>>(std::basic_istream<char, _Traits>&, unsigned char&)
+/usr/include/c++/4.6/istream:714:5: note: template<class _Traits> std::basic_istream<char, _Traits>& std::operator>>(std::basic_istream<char, _Traits>&, signed char&)
+/usr/include/c++/4.6/istream:756:5: note: template<class _Traits> std::basic_istream<char, _Traits>& std::operator>>(std::basic_istream<char, _Traits>&, unsigned char*)
+/usr/include/c++/4.6/istream:761:5: note: template<class _Traits> std::basic_istream<char, _Traits>& std::operator>>(std::basic_istream<char, _Traits>&, signed char*)
+main.cpp:25:18: error: no match for 'operator!=' in 'I[i] != '\000''
+main.cpp:25:18: note: candidates are:
+/usr/include/c++/4.6/bits/postypes.h:223:5: note: template<class _StateT> bool std::operator!=(const std::fpos<_StateT>&, const std::fpos<_StateT>&)
+/usr/include/c++/4.6/bits/stl_pair.h:214:5: note: template<class _T1, class _T2> bool std::operator!=(const std::pair<_T1, _T2>&, const std::pair<_T1, _T2>&)
+/usr/include/c++/4.6/bits/stl_iterator.h:297:5: note: template<class _Iterator> bool std::operator!=(const std::reverse_iterator<_Iterator>&, const std::reverse_iterator<_Iterator>&)
+/usr/include/c++/4.6/bits/stl_iterator.h:347:5: note: template<class _IteratorL, class _IteratorR> bool std::operator!=(const std::reverse_iterator<_IteratorL>&, const std::reverse_iterator<_IteratorR>&)
+/usr/include/c++/4.6/bits/allocator.h:132:5: note: template<class _T1, class _T2> bool std::operator!=(const std::allocator<_T1>&, const std::allocator<_T2>&)
+/usr/include/c++/4.6/bits/allocator.h:137:5: note: template<class _Tp> bool std::operator!=(const std::allocator<_Tp1>&, const std::allocator<_Tp1>&)
+/usr/include/c++/4.6/bits/basic_string.h:2473:5: note: template<class _CharT, class _Traits, class _Alloc> bool std::operator!=(const std::basic_string<_CharT, _Traits, _Alloc>&, const std::basic_string<_CharT, _Traits, _Alloc>&)
+/usr/include/c++/4.6/bits/basic_string.h:2485:5: note: template<class _CharT, class _Traits, class _Alloc> bool std::operator!=(const _CharT*, const std::basic_string<_CharT, _Traits, _Alloc>&)
+/usr/include/c++/4.6/bits/basic_string.h:2497:5: note: template<class _CharT, class _Traits, class _Alloc> bool std::operator!=(const std::basic_string<_CharT, _Traits, _Alloc>&, const _CharT*)
+/usr/include/c++/4.6/bits/streambuf_iterator.h:200:5: note: template<class _CharT, class _Traits> bool std::operator!=(const std::istreambuf_iterator<_CharT, _Traits>&, const std::istreambuf_iterator<_CharT, _Traits>&)
+/usr/include/c++/4.6/ext/new_allocator.h:128:5: note: template<class _Tp> bool __gnu_cxx::operator!=(const __gnu_cxx::new_allocator<_Tp>&, const __gnu_cxx::new_allocator<_Tp>&)
+/usr/include/c++/4.6/bits/stl_iterator.h:817:5: note: template<class _Iterator, class _Container> bool __gnu_cxx::operator!=(const __gnu_cxx::__normal_iterator<_Iterator, _Container>&, const __gnu_cxx::__normal_iterator<_Iterator, _Container>&)
+/usr/include/c++/4.6/bits/stl_iterator.h:811:5: note: template<class _IteratorL, class _IteratorR, class _Container> bool __gnu_cxx::operator!=(const __gnu_cxx::__normal_iterator<_IteratorL, _Container>&, const __gnu_cxx::__normal_iterator<_IteratorR, _Container>&)
+main.cpp:26:13: error: no match for 'operator!=' in 'I[i] != '_''
+main.cpp:26:13: note: candidates are:
+/usr/include/c++/4.6/bits/postypes.h:223:5: note: template<class _StateT> bool std::operator!=(const std::fpos<_StateT>&, const std::fpos<_StateT>&)
+/usr/include/c++/4.6/bits/stl_pair.h:214:5: note: template<class _T1, class _T2> bool std::operator!=(const std::pair<_T1, _T2>&, const std::pair<_T1, _T2>&)
+/usr/include/c++/4.6/bits/stl_iterator.h:297:5: note: template<class _Iterator> bool std::operator!=(const std::reverse_iterator<_Iterator>&, const std::reverse_iterator<_Iterator>&)
+/usr/include/c++/4.6/bits/stl_iterator.h:347:5: note: template<class _IteratorL, class _IteratorR> bool std::operator!=(const std::reverse_iterator<_IteratorL>&, const std::reverse_iterator<_IteratorR>&)
+/usr/include/c++/4.6/bits/allocator.h:132:5: note: template<class _T1, class _T2> bool std::operator!=(const std::allocator<_T1>&, const std::allocator<_T2>&)
+/usr/include/c++/4.6/bits/allocator.h:137:5: note: template<class _Tp> bool std::operator!=(const std::allocator<_Tp1>&, const std::allocator<_Tp1>&)
+/usr/include/c++/4.6/bits/basic_string.h:2473:5: note: template<class _CharT, class _Traits, class _Alloc> bool std::operator!=(const std::basic_string<_CharT, _Traits, _Alloc>&, const std::basic_string<_CharT, _Traits, _Alloc>&)
+/usr/include/c++/4.6/bits/basic_string.h:2485:5: note: template<class _CharT, class _Traits, class _Alloc> bool std::operator!=(const _CharT*, const std::basic_string<_CharT, _Traits, _Alloc>&)
+/usr/include/c++/4.6/bits/basic_string.h:2497:5: note: template<class _CharT, class _Traits, class _Alloc> bool std::operator!=(const std::basic_string<_CharT, _Traits, _Alloc>&, const _CharT*)
+/usr/include/c++/4.6/bits/streambuf_iterator.h:200:5: note: template<class _CharT, class _Traits> bool std::operator!=(const std::istreambuf_iterator<_CharT, _Traits>&, const std::istreambuf_iterator<_CharT, _Traits>&)
+/usr/include/c++/4.6/ext/new_allocator.h:128:5: note: template<class _Tp> bool __gnu_cxx::operator!=(const __gnu_cxx::new_allocator<_Tp>&, const __gnu_cxx::new_allocator<_Tp>&)
+/usr/include/c++/4.6/bits/stl_iterator.h:817:5: note: template<class _Iterator, class _Container> bool __gnu_cxx::operator!=(const __gnu_cxx::__normal_iterator<_Iterator, _Container>&, const __gnu_cxx::__normal_iterator<_Iterator, _Container>&)
+/usr/include/c++/4.6/bits/stl_iterator.h:811:5: note: template<class _IteratorL, class _IteratorR, class _Container> bool __gnu_cxx::operator!=(const __gnu_cxx::__normal_iterator<_IteratorL, _Container>&, const __gnu_cxx::__normal_iterator<_IteratorR, _Container>&)
+main.cpp:33:17: error: no match for 'operator!=' in 'F[i] != '\000''
+main.cpp:33:17: note: candidates are:
+/usr/include/c++/4.6/bits/postypes.h:223:5: note: template<class _StateT> bool std::operator!=(const std::fpos<_StateT>&, const std::fpos<_StateT>&)
+/usr/include/c++/4.6/bits/stl_pair.h:214:5: note: template<class _T1, class _T2> bool std::operator!=(const std::pair<_T1, _T2>&, const std::pair<_T1, _T2>&)
+/usr/include/c++/4.6/bits/stl_iterator.h:297:5: note: template<class _Iterator> bool std::operator!=(const std::reverse_iterator<_Iterator>&, const std::reverse_iterator<_Iterator>&)
+/usr/include/c++/4.6/bits/stl_iterator.h:347:5: note: template<class _IteratorL, class _IteratorR> bool std::operator!=(const std::reverse_iterator<_IteratorL>&, const std::reverse_iterator<_IteratorR>&)
+/usr/include/c++/4.6/bits/allocator.h:132:5: note: template<class _T1, class _T2> bool std::operator!=(const std::allocator<_T1>&, const std::allocator<_T2>&)
+/usr/include/c++/4.6/bits/allocator.h:137:5: note: template<class _Tp> bool std::operator!=(const std::allocator<_Tp1>&, const std::allocator<_Tp1>&)
+/usr/include/c++/4.6/bits/basic_string.h:2473:5: note: template<class _CharT, class _Traits, class _Alloc> bool std::operator!=(const std::basic_string<_CharT, _Traits, _Alloc>&, const std::basic_string<_CharT, _Traits, _Alloc>&)
+/usr/include/c++/4.6/bits/basic_string.h:2485:5: note: template<class _CharT, class _Traits, class _Alloc> bool std::operator!=(const _CharT*, const std::basic_string<_CharT, _Traits, _Alloc>&)
+/usr/include/c++/4.6/bits/basic_string.h:2497:5: note: template<class _CharT, class _Traits, class _Alloc> bool std::operator!=(const std::basic_string<_CharT, _Traits, _Alloc>&, const _CharT*)
+/usr/include/c++/4.6/bits/streambuf_iterator.h:200:5: note: template<class _CharT, class _Traits> bool std::operator!=(const std::istreambuf_iterator<_CharT, _Traits>&, const std::istreambuf_iterator<_CharT, _Traits>&)
+/usr/include/c++/4.6/ext/new_allocator.h:128:5: note: template<class _Tp> bool __gnu_cxx::operator!=(const __gnu_cxx::new_allocator<_Tp>&, const __gnu_cxx::new_allocator<_Tp>&)
+/usr/include/c++/4.6/bits/stl_iterator.h:817:5: note: template<class _Iterator, class _Container> bool __gnu_cxx::operator!=(const __gnu_cxx::__normal_iterator<_Iterator, _Container>&, const __gnu_cxx::__normal_iterator<_Iterator, _Container>&)
+/usr/include/c++/4.6/bits/stl_iterator.h:811:5: note: template<class _IteratorL, class _IteratorR, class _Container> bool __gnu_cxx::operator!=(const __gnu_cxx::__normal_iterator<_IteratorL, _Container>&, const __gnu_cxx::__normal_iterator<_IteratorR, _Container>&)
+main.cpp:34:13: error: no match for 'operator!=' in 'F[i] != '_''
+main.cpp:34:13: note: candidates are:
+/usr/include/c++/4.6/bits/postypes.h:223:5: note: template<class _StateT> bool std::operator!=(const std::fpos<_StateT>&, const std::fpos<_StateT>&)
+/usr/include/c++/4.6/bits/stl_pair.h:214:5: note: template<class _T1, class _T2> bool std::operator!=(const std::pair<_T1, _T2>&, const std::pair<_T1, _T2>&)
+/usr/include/c++/4.6/bits/stl_iterator.h:297:5: note: template<class _Iterator> bool std::operator!=(const std::reverse_iterator<_Iterator>&, const std::reverse_iterator<_Iterator>&)
+/usr/include/c++/4.6/bits/stl_iterator.h:347:5: note: template<class _IteratorL, class _IteratorR> bool std::operator!=(const std::reverse_iterator<_IteratorL>&, const std::reverse_iterator<_IteratorR>&)
+/usr/include/c++/4.6/bits/allocator.h:132:5: note: template<class _T1, class _T2> bool std::operator!=(const std::allocator<_T1>&, const std::allocator<_T2>&)
+/usr/include/c++/4.6/bits/allocator.h:137:5: note: template<class _Tp> bool std::operator!=(const std::allocator<_Tp1>&, const std::allocator<_Tp1>&)
+/usr/include/c++/4.6/bits/basic_string.h:2473:5: note: template<class _CharT, class _Traits, class _Alloc> bool std::operator!=(const std::basic_string<_CharT, _Traits, _Alloc>&, const std::basic_string<_CharT, _Traits, _Alloc>&)
+/usr/include/c++/4.6/bits/basic_string.h:2485:5: note: template<class _CharT, class _Traits, class _Alloc> bool std::operator!=(const _CharT*, const std::basic_string<_CharT, _Traits, _Alloc>&)
+/usr/include/c++/4.6/bits/basic_string.h:2497:5: note: template<class _CharT, class _Traits, class _Alloc> bool std::operator!=(const std::basic_string<_CharT, _Traits, _Alloc>&, const _CharT*)
+/usr/include/c++/4.6/bits/streambuf_iterator.h:200:5: note: template<class _CharT, class _Traits> bool std::operator!=(const std::istreambuf_iterator<_CharT, _Traits>&, const std::istreambuf_iterator<_CharT, _Traits>&)
+/usr/include/c++/4.6/ext/new_allocator.h:128:5: note: template<class _Tp> bool __gnu_cxx::operator!=(const __gnu_cxx::new_allocator<_Tp>&, const __gnu_cxx::new_allocator<_Tp>&)
+/usr/include/c++/4.6/bits/stl_iterator.h:817:5: note: template<class _Iterator, class _Container> bool __gnu_cxx::operator!=(const __gnu_cxx::__normal_iterator<_Iterator, _Container>&, const __gnu_cxx::__normal_iterator<_Iterator, _Container>&)
+/usr/include/c++/4.6/bits/stl_iterator.h:811:5: note: template<class _IteratorL, class _IteratorR, class _Container> bool __gnu_cxx::operator!=(const __gnu_cxx::__normal_iterator<_IteratorL, _Container>&, const __gnu_cxx::__normal_iterator<_IteratorR, _Container>&)
+main.cpp:40:15: error: 'strcmp' was not declared in this scope
+main.cpp:53:20: error: no match for 'operator!=' in 'A[i] != '\000''
+main.cpp:53:20: note: candidates are:
+/usr/include/c++/4.6/bits/postypes.h:223:5: note: template<class _StateT> bool std::operator!=(const std::fpos<_StateT>&, const std::fpos<_StateT>&)
+/usr/include/c++/4.6/bits/stl_pair.h:214:5: note: template<class _T1, class _T2> bool std::operator!=(const std::pair<_T1, _T2>&, const std::pair<_T1, _T2>&)
+/usr/include/c++/4.6/bits/stl_iterator.h:297:5: note: template<class _Iterator> bool std::operator!=(const std::reverse_iterator<_Iterator>&, const std::reverse_iterator<_Iterator>&)
+/usr/include/c++/4.6/bits/stl_iterator.h:347:5: note: template<class _IteratorL, class _IteratorR> bool std::operator!=(const std::reverse_iterator<_IteratorL>&, const std::reverse_iterator<_IteratorR>&)
+/usr/include/c++/4.6/bits/allocator.h:132:5: note: template<class _T1, class _T2> bool std::operator!=(const std::allocator<_T1>&, const std::allocator<_T2>&)
+/usr/include/c++/4.6/bits/allocator.h:137:5: note: template<class _Tp> bool std::operator!=(const std::allocator<_Tp1>&, const std::allocator<_Tp1>&)
+/usr/include/c++/4.6/bits/basic_string.h:2473:5: note: template<class _CharT, class _Traits, class _Alloc> bool std::operator!=(const std::basic_string<_CharT, _Traits, _Alloc>&, const std::basic_string<_CharT, _Traits, _Alloc>&)
+/usr/include/c++/4.6/bits/basic_string.h:2485:5: note: template<class _CharT, class _Traits, class _Alloc> bool std::operator!=(const _CharT*, const std::basic_string<_CharT, _Traits, _Alloc>&)
+/usr/include/c++/4.6/bits/basic_string.h:2497:5: note: template<class _CharT, class _Traits, class _Alloc> bool std::operator!=(const std::basic_string<_CharT, _Traits, _Alloc>&, const _CharT*)
+/usr/include/c++/4.6/bits/streambuf_iterator.h:200:5: note: template<class _CharT, class _Traits> bool std::operator!=(const std::istreambuf_iterator<_CharT, _Traits>&, const std::istreambuf_iterator<_CharT, _Traits>&)
+/usr/include/c++/4.6/ext/new_allocator.h:128:5: note: template<class _Tp> bool __gnu_cxx::operator!=(const __gnu_cxx::new_allocator<_Tp>&, const __gnu_cxx::new_allocator<_Tp>&)
+/usr/include/c++/4.6/bits/stl_iterator.h:817:5: note: template<class _Iterator, class _Container> bool __gnu_cxx::operator!=(const __gnu_cxx::__normal_iterator<_Iterator, _Container>&, const __gnu_cxx::__normal_iterator<_Iterator, _Container>&)
+/usr/include/c++/4.6/bits/stl_iterator.h:811:5: note: template<class _IteratorL, class _IteratorR, class _Container> bool __gnu_cxx::operator!=(const __gnu_cxx::__normal_iterator<_IteratorL, _Container>&, const __gnu_cxx::__normal_iterator<_IteratorR, _Container>&)

@@ -1,0 +1,7 @@
+main.java:10: error: illegal start of expression
+	}
+	^
+main.java:11: error: reached end of file while parsing
+}
+ ^
+2 errors

@@ -1,0 +1,1 @@
+main.cpp:9:1: error: expected ';' after class definition

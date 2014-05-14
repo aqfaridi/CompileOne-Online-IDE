@@ -1,0 +1,19 @@
+main.cpp:20:4: error: stray '\342' in program
+main.cpp:20:4: error: stray '\200' in program
+main.cpp:20:4: error: stray '\235' in program
+main.cpp:20:4: error: stray '\342' in program
+main.cpp:20:4: error: stray '\200' in program
+main.cpp:20:4: error: stray '\235' in program
+main.cpp:3:1: error: 'Using' does not name a type
+main.cpp: In function 'int main()':
+main.cpp:10:2: error: 'cin' was not declared in this scope
+main.cpp:10:2: note: suggested alternative:
+/usr/include/c++/4.6/iostream:61:18: note:   'std::cin'
+main.cpp:20:4: error: 'cout' was not declared in this scope
+main.cpp:20:4: note: suggested alternative:
+/usr/include/c++/4.6/iostream:62:18: note:   'std::cout'
+main.cpp:20:22: error: 's' was not declared in this scope
+main.cpp:20:23: error: 'card' was not declared in this scope
+main.cpp:20:30: error: 'endl' was not declared in this scope
+main.cpp:20:30: note: suggested alternative:
+/usr/include/c++/4.6/ostream:543:5: note:   'std::endl'
