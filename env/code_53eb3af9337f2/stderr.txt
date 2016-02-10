@@ -1,6 +1,0 @@
-main.c:9:12: error: expected '=', ',', ';', 'asm' or '__attribute__' before numeric constant
-main.c: In function 'main':
-main.c:53:15: error: 'MAX_LENGTH' undeclared (first use in this function)
-main.c:53:15: note: each undeclared identifier is reported only once for each function it appears in
-main.c:56:5: error: too many arguments to function 'gets'
-/usr/include/i386-linux-gnu/bits/stdio2.h:226:1: note: declared here

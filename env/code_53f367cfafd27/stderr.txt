@@ -1,4 +1,0 @@
-code_53f367cfafd27.java:1: class My is public, should be declared in a file named My.java
-public class My{
-       ^
-1 error

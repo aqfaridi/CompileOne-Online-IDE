@@ -1,6 +1,0 @@
-main.cpp: In function 'int main()':
-main.cpp:6:2: error: expected primary-expression before ',' token
-main.cpp:6:3: error: 'n' was not declared in this scope
-main.cpp:6:5: error: 'm' was not declared in this scope
-main.cpp:21:2: error: expected primary-expression before 'return'
-main.cpp:21:2: error: expected ';' before 'return'

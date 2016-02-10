@@ -1,4 +1,0 @@
-main.c: In function 'main':
-main.c:61:18: error: expected ')' before ';' token
-main.c:68:1: error: expected ';' before '}' token
-main.c:61:11: warning: ignoring return value of 'gets', declared with attribute warn_unused_result [-Wunused-result]

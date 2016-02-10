@@ -1,4 +1,0 @@
-code_53f48afc885cd.java:7: class BasicAuthNeeded is public, should be declared in a file named BasicAuthNeeded.java
-public class BasicAuthNeeded {
-       ^
-1 error

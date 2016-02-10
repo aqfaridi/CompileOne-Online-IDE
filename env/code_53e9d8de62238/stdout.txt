@@ -1,1 +1,0 @@
-num is multiple of 3

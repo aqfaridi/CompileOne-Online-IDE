@@ -1,4 +1,0 @@
-Traceback (most recent call last):
-  File "main.py", line 2, in <module>
-    arr = int(raw_input().split(' '))
-TypeError: int() argument must be a string or a number, not 'list'

@@ -1,4 +1,0 @@
-main.cpp: In function 'long long int binary(long long int*, long long int, long long int)':
-main.cpp:16:17: error: 'a' was not declared in this scope
-main.cpp: In function 'int main()':
-main.cpp:39:26: error: 'bin' was not declared in this scope

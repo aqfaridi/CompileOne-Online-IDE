@@ -1,2 +1,0 @@
-env/code_53c0bec1116df/code_53c0bec1116df.pike:2:syntax error, unexpected TOK_STRING
-Pike: Failed to compile script.

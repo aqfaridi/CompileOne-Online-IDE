@@ -1,7 +1,0 @@
-code_53f3c3cac5acc.java:4: class, interface, or enum expected
-public static void main(String[] args){
-              ^
-code_53f3c3cac5acc.java:6: class, interface, or enum expected
-}
-^
-2 errors

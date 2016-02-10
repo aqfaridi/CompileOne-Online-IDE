@@ -1,5 +1,0 @@
-src is1
- cnt is 3
-src is3
- cnt is 1
-2

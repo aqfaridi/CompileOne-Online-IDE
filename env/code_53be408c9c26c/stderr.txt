@@ -1,4 +1,0 @@
-main.java:12: error: reached end of file while parsing
-sss
-^
-1 error

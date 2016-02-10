@@ -1,6 +1,0 @@
-main.cpp: In function 'int main()':
-main.cpp:12:44: error: no matching function for call to 'random_shuffle(std::vector<int>::iterator, std::vector<int>::iterator, int)'
-main.cpp:12:44: note: candidates are:
-/usr/include/c++/4.6/bits/stl_algo.h:5142:5: note: template<class _RAIter> void std::random_shuffle(_RAIter, _RAIter)
-/usr/include/c++/4.6/bits/stl_algo.h:5170:5: note: void std::random_shuffle(_RAIter, _RAIter, _Generator&) [with _RAIter = __gnu_cxx::__normal_iterator<int*, std::vector<int> >, _Generator = int]
-/usr/include/c++/4.6/bits/stl_algo.h:5170:5: note:   no known conversion for argument 3 from 'int' to 'int&'

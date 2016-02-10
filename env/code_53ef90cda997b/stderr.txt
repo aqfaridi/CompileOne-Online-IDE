@@ -1,3 +1,0 @@
-/tmp/ccHPXw2n.o: In function `main':
-code_53ef90cda997b.c:(.text.startup+0x2d): undefined reference to `printff'
-collect2: ld returned 1 exit status

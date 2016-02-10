@@ -1,2 +1,0 @@
-main.cpp: In function 'int main()':
-main.cpp:41:16: error: request for member 'length' in 's[(i + -0x00000000000000001)]', which is of non-class type 'char [101]'

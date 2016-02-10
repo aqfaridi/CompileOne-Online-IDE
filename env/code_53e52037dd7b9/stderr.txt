@@ -1,3 +1,0 @@
-main.cpp: In function 'int main()':
-main.cpp:9:11: error: 'Length' was not declared in this scope
-main.cpp:12:11: error: 'Width' was not declared in this scope

@@ -1,4 +1,0 @@
-Traceback (most recent call last):
-  File "main.py", line 2, in <module>
-    os.chroot("apt-get install bf")
-OSError: [Errno 2] No such file or directory: 'apt-get install bf'

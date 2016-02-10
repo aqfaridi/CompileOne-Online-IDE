@@ -1,2 +1,0 @@
-main.cpp: In function 'int main()':
-main.cpp:47:23: error: argument of type 'std::basic_string<char>::size_type (std::basic_string<char>::)()const {aka unsigned int (std::basic_string<char>::)()const}' does not match 'int'

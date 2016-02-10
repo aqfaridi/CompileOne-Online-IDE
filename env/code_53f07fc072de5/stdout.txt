@@ -1,2 +1,0 @@
-enter the array size :enter 5 numbers :
-sum= 9

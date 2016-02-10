@@ -1,4 +1,0 @@
-  File "main.py", line 26
-    flag=subseq(b,a)
-    ^
-IndentationError: unexpected indent

@@ -1,4 +1,0 @@
-Traceback (most recent call last):
-  File "main.py", line 5, in <module>
-    arr1 = arr1[0]*N;
-NameError: name 'arr1' is not defined

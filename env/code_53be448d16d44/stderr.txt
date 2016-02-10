@@ -1,4 +1,0 @@
-  File "main.py", line 2
-    print "python"
-                 ^
-SyntaxError: invalid syntax

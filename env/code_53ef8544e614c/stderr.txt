@@ -1,8 +1,0 @@
-main.c: In function 'main':
-main.c:19:1: warning: passing argument 1 of 'getline' from incompatible pointer type [enabled by default]
-/usr/include/stdio.h:675:20: note: expected 'char ** __restrict__' but argument is of type 'char *'
-main.c:19:1: warning: passing argument 2 of 'getline' makes pointer from integer without a cast [enabled by default]
-/usr/include/stdio.h:675:20: note: expected 'size_t * __restrict__' but argument is of type 'int'
-main.c:19:1: error: too few arguments to function 'getline'
-/usr/include/stdio.h:675:20: note: declared here
-main.c:13:6: warning: ignoring return value of 'scanf', declared with attribute warn_unused_result [-Wunused-result]

@@ -1,6 +1,0 @@
-Traceback (most recent call last):
-  File "main.py", line 9, in <module>
-    prime_check([2, 44, 5, 3, 67, 17])
-  File "main.py", line 3, in prime_check
-    if x == 2: listout.append(x)
-NameError: global name 'listout' is not defined

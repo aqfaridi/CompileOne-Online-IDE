@@ -1,4 +1,0 @@
-Size of arr[] 24
-Size of ptr 4
-0xbf92e038
-0xbf92e038

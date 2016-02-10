@@ -1,4 +1,0 @@
-  File "main.py", line 28
-    if(a in str(p)):
-     ^
-IndentationError: expected an indented block

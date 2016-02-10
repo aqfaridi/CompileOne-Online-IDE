@@ -1,2 +1,0 @@
-main.cpp: In function 'int main()':
-main.cpp:18:7: error: 'vec' does not name a type

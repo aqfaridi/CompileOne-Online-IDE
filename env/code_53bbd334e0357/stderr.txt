@@ -1,9 +1,0 @@
-/var/www/jstreetest/demo/filebrowser/env/code_53bbd334e0357/code_53bbd334e0357.java:42: error: cannot find symbol
-                maxx = Integer.MIN_VALUE;gg
-                                         ^
-  symbol:   class gg
-  location: class Main
-/var/www/jstreetest/demo/filebrowser/env/code_53bbd334e0357/code_53bbd334e0357.java:43: error: variable str is already defined in method main(String[])
-                str = br.readLine();
-                ^
-2 errors

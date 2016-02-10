@@ -1,5 +1,0 @@
-main.c: In function 'read':
-main.c:6:9: warning: ignoring return value of 'fgets', declared with attribute warn_unused_result [-Wunused-result]
-/usr/lib/gcc/i686-linux-gnu/4.6/../../../i386-linux-gnu/crt1.o: In function `_start':
-(.text+0x18): undefined reference to `main'
-collect2: ld returned 1 exit status

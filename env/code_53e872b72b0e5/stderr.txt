@@ -1,7 +1,0 @@
-code_53e872b72b0e5.java:9: ')' expected
-	System.out.print(args[0]
-	                        ^
-code_53e872b72b0e5.java:12: reached end of file while parsing
-	}
-	 ^
-2 errors

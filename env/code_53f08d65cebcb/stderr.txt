@@ -1,5 +1,0 @@
-main.c: In function 'main':
-main.c:5:21: error: 'a1' undeclared (first use in this function)
-main.c:5:21: note: each undeclared identifier is reported only once for each function it appears in
-main.c:5:25: error: 'a2' undeclared (first use in this function)
-main.c:5:29: error: 'a3' undeclared (first use in this function)

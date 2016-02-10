@@ -1,4 +1,0 @@
-main.java:9: error: package system does not exist
-		system.out.println("hello");
-		      ^
-1 error

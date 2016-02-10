@@ -1,4 +1,0 @@
-main.cpp: In function 'int main()':
-main.cpp:62:11: error: conflicting declaration 'int pos'
-main.cpp:60:10: error: 'pos' has a previous declaration as 'std::vector<int> pos'
-main.cpp:65:29: error: no 'operator++(int)' declared for postfix '++' [-fpermissive]

@@ -1,2 +1,0 @@
-main.sh: line 9: syntax error near unexpected token `done'
-main.sh: line 9: `done'

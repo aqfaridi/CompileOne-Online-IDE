@@ -1,3 +1,0 @@
-/tmp/ccYntLH5.o: In function `main':
-code_53f58c9278ee0.c:(.text.startup+0x7): undefined reference to `clrscr'
-collect2: ld returned 1 exit status

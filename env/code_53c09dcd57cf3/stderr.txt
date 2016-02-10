@@ -1,2 +1,0 @@
-main.c: In function 'main':
-main.c:8:20: error: invalid type argument of unary '*' (have 'int')

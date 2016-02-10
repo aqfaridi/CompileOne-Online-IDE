@@ -1,2 +1,0 @@
-main.c: In function 'main':
-main.c:7:14: error: invalid operands to binary & (have 'char *' and 'int')

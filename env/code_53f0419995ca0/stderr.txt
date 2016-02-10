@@ -1,4 +1,0 @@
-main.c: In function 'main':
-main.c:8:9: error: case label does not reduce to an integer constant
-main.c:9:9: error: case label does not reduce to an integer constant
-main.c:10:9: error: case label does not reduce to an integer constant

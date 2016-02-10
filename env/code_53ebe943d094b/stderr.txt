@@ -1,4 +1,0 @@
-  File "main.py", line 7
-    def prime_check(listin):
-      ^
-IndentationError: expected an indented block

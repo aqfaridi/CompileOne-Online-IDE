@@ -1,9 +1,0 @@
-main.cpp: In function 'int IsLeapYear(int)':
-main.cpp:9:12: error: declaration of 'int year' shadows a parameter
-main.cpp:10:14: error: lvalue required as left operand of assignment
-main.cpp: In function 'int DaysInMonth(int)':
-main.cpp:22:2: error: expected ',' or ';' before 'return'
-main.cpp: At global scope:
-main.cpp:25:20: warning: extended initializer lists only available with -std=c++0x or -std=gnu++0x [enabled by default]
-main.cpp:25:20: error: expected primary-expression before 'int'
-main.cpp:112:1: error: expected ',' or ';' at end of input

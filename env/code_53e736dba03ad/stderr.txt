@@ -1,4 +1,0 @@
-code_53e736dba03ad.java:9: package system does not exist
-		system.out.println("Hello world");
-		      ^
-1 error

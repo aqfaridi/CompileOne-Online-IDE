@@ -1,4 +1,0 @@
-main.cpp: In function 'int main()':
-main.cpp:46:13: error: 'l' was not declared in this scope
-main.cpp:56:17: error: 'shirt' was not declared in this scope
-main.cpp:45:23: warning: ignoring return value of 'char* gets(char*)', declared with attribute warn_unused_result [-Wunused-result]

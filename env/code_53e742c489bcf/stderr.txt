@@ -1,9 +1,0 @@
-main.cpp: In function 'int main()':
-main.cpp:13:33: error: invalid operands of types '__gnu_cxx::__enable_if<true, double>::__type {aka double}' and 'int' to binary 'operator%'
-main.cpp:43:37: error: invalid operands of types '__gnu_cxx::__enable_if<true, double>::__type {aka double}' and 'int' to binary 'operator%'
-main.cpp:55:35: error: invalid operands of types '__gnu_cxx::__enable_if<true, double>::__type {aka double}' and 'int' to binary 'operator%'
-main.cpp:63:39: error: invalid operands of types '__gnu_cxx::__enable_if<true, double>::__type {aka double}' and 'int' to binary 'operator%'
-main.cpp:73:14: error: invalid operands of types '__gnu_cxx::__enable_if<true, double>::__type {aka double}' and 'int' to binary 'operator&'
-main.cpp:75:31: error: invalid operands of types '__gnu_cxx::__enable_if<true, double>::__type {aka double}' and 'int' to binary 'operator%'
-main.cpp:81:15: error: invalid operands of types '__gnu_cxx::__enable_if<true, double>::__type {aka double}' and 'int' to binary 'operator&'
-main.cpp:88:31: error: invalid operands of types '__gnu_cxx::__enable_if<true, double>::__type {aka double}' and 'int' to binary 'operator%'

@@ -1,3 +1,0 @@
-main.c:1:1: error: unknown type name 'oid'
-main.c: In function 'read':
-main.c:5:4: warning: incompatible implicit declaration of built-in function 'printf' [enabled by default]

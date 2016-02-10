@@ -1,6 +1,0 @@
-main.java:9: error: incompatible types
-	    while(1)
-	          ^
-  required: boolean
-  found:    int
-1 error

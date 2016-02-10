@@ -1,2 +1,0 @@
-Liczby podzielne przez 3 w zakresie od 1 do 199
-166833

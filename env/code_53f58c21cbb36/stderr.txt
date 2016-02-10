@@ -1,4 +1,0 @@
-main.c: In function 'main':
-main.c:4:8: error: expected ';' before 'printf'
-main.c: At top level:
-main.c:5:2: error: expected identifier or '(' before numeric constant

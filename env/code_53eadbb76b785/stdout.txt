@@ -1,2 +1,0 @@
-Ingrese un entero: 
-Usted escribio 45

@@ -1,5 +1,0 @@
-Size of arr[] 6
-Size of ptr 4
-
-(2<
-

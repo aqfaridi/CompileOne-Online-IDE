@@ -1,9 +1,0 @@
-main.c: In function 'main':
-main.c:11:1: warning: format '%[^
-' expects argument of type 'char *', but argument 2 has type 'char (*)[350][350]' [-Wformat]
-main.c: At top level:
-main.c:14:1: error: expected identifier or '(' before '}' token
-main.c:16:1: error: expected identifier or '(' before '}' token
-main.c: In function 'main':
-main.c:9:9: warning: ignoring return value of 'scanf', declared with attribute warn_unused_result [-Wunused-result]
-main.c:11:6: warning: ignoring return value of 'scanf', declared with attribute warn_unused_result [-Wunused-result]

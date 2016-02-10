@@ -1,3 +1,0 @@
-main.c: In function 'main':
-main.c:6:4: error: too few arguments to function 'fgets'
-/usr/include/i386-linux-gnu/bits/stdio2.h:245:1: note: declared here

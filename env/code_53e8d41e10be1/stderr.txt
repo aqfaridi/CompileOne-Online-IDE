@@ -1,4 +1,0 @@
-main.cpp: In function 'int main()':
-main.cpp:15:26: error: 'time' is not a member of 'std'
-main.cpp:15:26: note: suggested alternative:
-/usr/include/time.h:186:15: note:   'time'

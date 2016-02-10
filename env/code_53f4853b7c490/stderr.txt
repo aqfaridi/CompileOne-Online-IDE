@@ -1,2 +1,0 @@
-main.cs(7,25): error CS0117: `System.Console' does not contain a definition for `print'
-/usr/lib/mono/2.0/mscorlib.dll (Location of the symbol related to previous error)

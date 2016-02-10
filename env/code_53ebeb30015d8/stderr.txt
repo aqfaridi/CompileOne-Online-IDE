@@ -1,1 +1,0 @@
-main.rb:1: undefined method `prompt' for main:Object (NoMethodError)

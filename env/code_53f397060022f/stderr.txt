@@ -1,4 +1,0 @@
-code_53f397060022f.java:9: package system does not exist
-		system.out.println("vidya");
-		      ^
-1 error

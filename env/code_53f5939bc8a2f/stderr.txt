@@ -1,3 +1,0 @@
-main.c: In function 'main':
-main.c:10:2: error: lvalue required as increment operand
-main.c:18:1: error: expected declaration or statement at end of input

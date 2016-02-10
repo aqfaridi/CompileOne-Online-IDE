@@ -1,7 +1,0 @@
-main.c: In function 'main':
-main.c:6:15: warning: incompatible implicit declaration of built-in function 'pow' [enabled by default]
-main.c:6:1: warning: format '%lld' expects argument of type 'long long int', but argument 2 has type 'double' [-Wformat]
-main.c:5:6: warning: ignoring return value of 'scanf', declared with attribute warn_unused_result [-Wunused-result]
-/tmp/ccmVOGGb.o: In function `main':
-code_53e4f640b0985.c:(.text.startup+0x2f): undefined reference to `pow'
-collect2: ld returned 1 exit status

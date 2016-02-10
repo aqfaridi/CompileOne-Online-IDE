@@ -1,3 +1,0 @@
-begin
-	print("coucou");
-end.

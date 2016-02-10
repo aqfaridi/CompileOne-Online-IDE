@@ -1,5 +1,0 @@
-main.sh: fork: retry: No child processes
-main.sh: fork: retry: No child processes
-main.sh: fork: retry: No child processes
-main.sh: fork: retry: No child processes
-main.sh: fork: Resource temporarily unavailable

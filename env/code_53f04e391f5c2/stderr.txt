@@ -1,4 +1,0 @@
-  File "main.py", line 6
-    m = (int)ss[1]
-              ^
-SyntaxError: invalid syntax

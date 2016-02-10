@@ -1,9 +1,0 @@
-main.c: In function 'main':
-main.c:8:7: warning: ignoring return value of 'scanf', declared with attribute warn_unused_result [-Wunused-result]
-main.c:10:7: warning: ignoring return value of 'scanf', declared with attribute warn_unused_result [-Wunused-result]
-main.c:17:9: warning: ignoring return value of 'scanf', declared with attribute warn_unused_result [-Wunused-result]
-main.c:35:9: warning: ignoring return value of 'scanf', declared with attribute warn_unused_result [-Wunused-result]
-/tmp/ccq89poD.o: In function `main':
-code_53f480eeb1eec.c:(.text.startup+0x10): undefined reference to `clrscr'
-code_53f480eeb1eec.c:(.text.startup+0x4d7): undefined reference to `getch'
-collect2: ld returned 1 exit status

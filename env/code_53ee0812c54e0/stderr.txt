@@ -1,4 +1,0 @@
-  File "main.py", line 5
-    while(flag=1):
-              ^
-SyntaxError: invalid syntax

@@ -1,7 +1,0 @@
-main.cpp: In function 'int main()':
-main.cpp:8:14: error: 'arr' cannot appear in a constant-expression
-main.cpp:8:19: error: an array reference cannot appear in a constant-expression
-main.cpp:9:14: error: 'arr' cannot appear in a constant-expression
-main.cpp:9:19: error: an array reference cannot appear in a constant-expression
-main.cpp:10:14: error: 'arr' cannot appear in a constant-expression
-main.cpp:10:19: error: an array reference cannot appear in a constant-expression

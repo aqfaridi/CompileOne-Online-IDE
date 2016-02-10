@@ -1,6 +1,0 @@
-main.c: In function 'main':
-main.c:5:5: error: expected identifier or '(' before ',' token
-main.c:6:13: error: 'w' undeclared (first use in this function)
-main.c:6:13: note: each undeclared identifier is reported only once for each function it appears in
-main.c:8:5: error: 'i' undeclared (first use in this function)
-main.c:12:15: error: expected expression before ']' token

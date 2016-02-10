@@ -1,4 +1,0 @@
-main.cpp:41:22: error: expected identifier before ',' token
-main.cpp: In function 'int main()':
-main.cpp:85:27: error: too few arguments to function 'll binary(ll*, ll, int, ll)'
-main.cpp:41:4: note: declared here

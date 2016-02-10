@@ -1,4 +1,0 @@
-code_53ede200f36b3.java:10: inner classes cannot have static declarations
-  public static void main(String args[])  {
-                     ^
-1 error

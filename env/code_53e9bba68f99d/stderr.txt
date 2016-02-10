@@ -1,3 +1,0 @@
-/usr/lib/gcc/i686-linux-gnu/4.6/../../../i386-linux-gnu/crt1.o: In function `_start':
-(.text+0x18): undefined reference to `main'
-collect2: ld returned 1 exit status

@@ -1,2 +1,0 @@
-main.cpp: In function 'int hahaha()':
-main.cpp:5:12: error: invalid conversion from 'const char*' to 'int' [-fpermissive]

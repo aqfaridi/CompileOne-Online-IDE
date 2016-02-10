@@ -1,6 +1,0 @@
-main.c: In function 'main':
-main.c:7:7: warning: ignoring return value of 'scanf', declared with attribute warn_unused_result [-Wunused-result]
-/tmp/ccNiUP3K.o: In function `main':
-code_53f49d410d09d.c:(.text.startup+0x3a): undefined reference to `getch'
-code_53f49d410d09d.c:(.text.startup+0x5f): undefined reference to `getch'
-collect2: ld returned 1 exit status

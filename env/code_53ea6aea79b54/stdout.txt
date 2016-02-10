@@ -1,4 +1,0 @@
-String :: vivek 4
-Size2
-hello 
-hi4

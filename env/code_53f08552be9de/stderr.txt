@@ -1,6 +1,0 @@
-code_53f08552be9de.java:7: cannot find symbol
-symbol  : method printf(java.lang.String)
-location: class Main
-	printf("very happy to get a online compilerrr!!!!!!");	// your code goes here
-	^
-1 error

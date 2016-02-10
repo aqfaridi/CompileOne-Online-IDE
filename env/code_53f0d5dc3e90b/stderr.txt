@@ -1,3 +1,0 @@
-main.c: In function 'main':
-main.c:12:15: error: expected expression before ']' token
-main.c:6:6: warning: ignoring return value of 'scanf', declared with attribute warn_unused_result [-Wunused-result]

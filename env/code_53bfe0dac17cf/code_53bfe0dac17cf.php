@@ -1,6 +1,0 @@
-<?php
-while (True)
-{
-    echo "";
-}
-?>

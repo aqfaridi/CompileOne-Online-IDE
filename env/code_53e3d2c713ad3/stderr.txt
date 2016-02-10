@@ -1,4 +1,0 @@
-code_53e3d2c713ad3.java:10: ';' expected
-		system.out("ffhfh")
-		                   ^
-1 error

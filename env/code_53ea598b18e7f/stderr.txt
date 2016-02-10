@@ -1,4 +1,0 @@
-code_53ea598b18e7f.java:3: class TestClass is public, should be declared in a file named TestClass.java
-public class TestClass {
-       ^
-1 error

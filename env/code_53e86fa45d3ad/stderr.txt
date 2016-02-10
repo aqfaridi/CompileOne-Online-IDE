@@ -1,8 +1,0 @@
-main.cpp: In function 'int main()':
-main.cpp:18:10: error: missing template arguments before '*' token
-main.cpp:18:12: error: 'vec' was not declared in this scope
-main.cpp: In constructor 'Vector3d<T>::Vector3d(T, T, T) [with T = int]':
-main.cpp:18:41:   instantiated from here
-main.cpp:8:9: error: request for member 'x' in 'this', which is of non-class type 'Vector3d<int>* const'
-main.cpp:9:9: error: request for member 'y' in 'this', which is of non-class type 'Vector3d<int>* const'
-main.cpp:10:9: error: request for member 'z' in 'this', which is of non-class type 'Vector3d<int>* const'

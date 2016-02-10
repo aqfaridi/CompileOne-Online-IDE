@@ -1,4 +1,0 @@
-code_53edf74550117.java:4: <identifier> expected
-    private Button=new Button("yo");
-                  ^
-1 error

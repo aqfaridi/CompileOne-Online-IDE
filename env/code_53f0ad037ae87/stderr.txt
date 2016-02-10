@@ -1,6 +1,0 @@
-main.c: In function 'main':
-main.c:30:3: error: 'tlcrdt' undeclared (first use in this function)
-main.c:30:3: note: each undeclared identifier is reported only once for each function it appears in
-main.c:26:7: warning: ignoring return value of 'scanf', declared with attribute warn_unused_result [-Wunused-result]
-main.c:29:8: warning: ignoring return value of 'scanf', declared with attribute warn_unused_result [-Wunused-result]
-main.c:34:9: warning: ignoring return value of 'scanf', declared with attribute warn_unused_result [-Wunused-result]

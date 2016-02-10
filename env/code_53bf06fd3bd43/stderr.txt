@@ -1,4 +1,0 @@
-Traceback (most recent call last):
-  File "main.py", line 17, in <module>
-    if((int(arr1[B])-int(arr1[A])) == (B-A)):
-IndexError: list index out of range

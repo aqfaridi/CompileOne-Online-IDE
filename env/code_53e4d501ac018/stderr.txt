@@ -1,4 +1,0 @@
-Traceback (most recent call last):
-  File "main.py", line 4, in <module>
-    print os.pid()
-AttributeError: 'module' object has no attribute 'pid'

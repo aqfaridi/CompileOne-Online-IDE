@@ -1,7 +1,0 @@
-main.cpp: In function 'int main()':
-main.cpp:22:8: error: no matching function for call to 'Robot::Robot()'
-main.cpp:22:8: note: candidates are:
-main.cpp:10:5: note: Robot::Robot(std::string, std::string)
-main.cpp:10:5: note:   candidate expects 2 arguments, 0 provided
-main.cpp:4:7: note: Robot::Robot(const Robot&)
-main.cpp:4:7: note:   candidate expects 1 argument, 0 provided

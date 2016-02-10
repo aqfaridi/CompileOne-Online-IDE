@@ -1,4 +1,0 @@
-main.cpp: In function 'int main()':
-main.cpp:16:10: error: 'cnt' was not declared in this scope
-main.cpp:24:11: error: 'a' was not declared in this scope
-main.cpp:24:14: error: 'b' was not declared in this scope

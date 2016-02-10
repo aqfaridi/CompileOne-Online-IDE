@@ -1,3 +1,0 @@
-main.c: In function 'main':
-main.c:4:23: error: expected ')' before ';' token
-main.c:6:1: error: expected ';' before '}' token

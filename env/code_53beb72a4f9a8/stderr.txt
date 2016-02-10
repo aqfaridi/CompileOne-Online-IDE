@@ -1,3 +1,0 @@
-main.c: In function 'main':
-main.c:4:20: error: 'abc' undeclared (first use in this function)
-main.c:4:20: note: each undeclared identifier is reported only once for each function it appears in

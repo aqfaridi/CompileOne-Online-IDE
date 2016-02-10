@@ -1,3 +1,0 @@
-main.cpp: In function 'int main()':
-main.cpp:5:39: error: 'stdout' was not declared in this scope
-main.cpp:5:45: error: 'freopen' was not declared in this scope

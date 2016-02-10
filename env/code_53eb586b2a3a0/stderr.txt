@@ -1,6 +1,0 @@
-Traceback (most recent call last):
-  File "main.py", line 30, in <module>
-    solve(int(line[0]),int(line[1]))
-  File "main.py", line 24, in solve
-    print i
-IOError: [Errno 27] File too large

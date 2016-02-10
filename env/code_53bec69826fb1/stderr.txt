@@ -1,3 +1,0 @@
-/tmp/ccav3ckl.o: In function `main':
-code_53bec69826fb1.c:(.text.startup+0x25): undefined reference to `print'
-collect2: ld returned 1 exit status
